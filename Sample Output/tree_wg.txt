@@ -1,0 +1,4095 @@
+Folder PATH listing for volume Imported Disk
+Volume serial number is 00610065 0C96:0EBC
+D:.
+|   bass.dll
+|   CLEO.asi
+|   cleo.log
+|   eax.dll
+|   gtaweap3.ttf
+|   gta_sa.exe
+|   index.bin
+|   LanguageLoader.asi
+|   mouse.png
+|   MTLX.dll
+|   ogg.dll
+|   rcon.exe
+|   samp-license.txt
+|   samp.dll
+|   samp.exe
+|   samp.saa
+|   sampaux3.ttf
+|   sampgui.png
+|   SAMPUninstall.exe
+|   samp_debug.exe
+|   stream.ini
+|   tree_wg.txt
+|   Unban_Helper.exe
+|   version.txt
+|   vorbis.dll
+|   vorbisFile.dll
+|   vorbisHooked.dll
+|   wgCrypt.exe
+|   
++---anim
+|       anim.img
+|       cuts.img
+|       ped.ifp
+|       
++---audio
+|   +---CONFIG
+|   |       AudioEventHistory.txt
+|   |       BankLkup.dat
+|   |       BankSlot.dat
+|   |       EventVol.dat
+|   |       PakFiles.dat
+|   |       StrmPaks.dat
+|   |       TrakLkup.dat
+|   |       
+|   +---sfx
+|   |       FEET
+|   |       GENRL
+|   |       PAIN_A
+|   |       SCRIPT
+|   |       SPC_EA
+|   |       SPC_FA
+|   |       SPC_GA
+|   |       SPC_NA
+|   |       SPC_PA
+|   |       
+|   \---streams
+|           AA
+|           ADVERTS
+|           AMBIENCE
+|           BEATS
+|           CH
+|           CO
+|           CR
+|           CUTSCENE
+|           DS
+|           HC
+|           MH
+|           MR
+|           NJ
+|           RE
+|           RG
+|           TK
+|           
++---cleo
+|   |   cops.cs
+|   |   cops.ini
+|   |   Desert sheriff fix.cs
+|   |   FileSystemOperations.cleo
+|   |   Fix Seville Parked Car (Junior_Djjr).cs
+|   |   FPS.CS
+|   |   Home_brains_Fix.cs
+|   |   Home_brains_group.cs
+|   |   hostgangs.cs
+|   |   IniFiles.cleo
+|   |   IntOperations.cleo
+|   |   Kill Frenzy.cs
+|   |   Lighthouse & Pyramid Fix (Junior_Djjr).cs
+|   |   memory2048.cs
+|   |   Missing icons.cs
+|   |   parachute.cs
+|   |   parachute.txt
+|   |   Plane Explode Fix.cs
+|   |   SA.Autosave.cs
+|   |   Save Gun v1.0.cs
+|   |   traincamfix.cs
+|   |   trainlight.cs
+|   |   WangCarsPeds.cs
+|   |   
+|   +---cleo_saves
+|   |       cs0.sav
+|   |       cs1.sav
+|   |       cs7.sav
+|   |       
+|   \---cleo_text
+|           Kill Frenzy (eng).fxt
+|           Kill Frenzy (rus).fxt
+|           
++---data
+|   |   animgrp.dat
+|   |   animviewer.dat
+|   |   ar_stats.dat
+|   |   AudioEvents.txt
+|   |   carcols.dat
+|   |   cargrp.dat
+|   |   carmods.dat
+|   |   clothes.dat
+|   |   default.dat
+|   |   default.ide
+|   |   fonts.dat
+|   |   furnitur.dat
+|   |   gridref.dat
+|   |   gta.dat
+|   |   gta_quick.dat
+|   |   handling.cfg
+|   |   info.zon
+|   |   main.sc
+|   |   map.zon
+|   |   melee.dat
+|   |   numplate.dat
+|   |   object.dat
+|   |   ped.dat
+|   |   pedgrp.dat
+|   |   peds.ide
+|   |   pedstats.dat
+|   |   plants.dat
+|   |   polydensity.dat
+|   |   popcycle.dat
+|   |   procobj.dat
+|   |   shopping.dat
+|   |   statdisp.dat
+|   |   surface.dat
+|   |   surfaud.dat
+|   |   surfinfo.dat
+|   |   timecyc.dat
+|   |   timecycp.dat
+|   |   txdcut.ide
+|   |   vehicles.ide
+|   |   water.dat
+|   |   water1.dat
+|   |   weapon.dat
+|   |   
+|   +---Decision
+|   |   |   BLANK.ped
+|   |   |   Cop.ped
+|   |   |   FLAT.ped
+|   |   |   GangMbr.ped
+|   |   |   GROVE.ped
+|   |   |   Indoors.ped
+|   |   |   MISSION.grp
+|   |   |   MISSION.ped
+|   |   |   m_empty.ped
+|   |   |   m_infrm.ped
+|   |   |   m_norm.ped
+|   |   |   m_std.ped
+|   |   |   m_tough.ped
+|   |   |   m_weak.ped
+|   |   |   PedEvent.txt
+|   |   |   
+|   |   +---Allowed
+|   |   |       Cop.ped
+|   |   |       Fireman.ped
+|   |   |       GangMbr.ped
+|   |   |       Indoors.ped
+|   |   |       MISSION.grp
+|   |   |       m_empty.ped
+|   |   |       m_norm.ped
+|   |   |       m_plyr.ped
+|   |   |       m_steal.ped
+|   |   |       m_tough.ped
+|   |   |       m_weak.ped
+|   |   |       RANDOM.grp
+|   |   |       RANDOM.ped
+|   |   |       RANDOM2.grp
+|   |   |       R_Norm.ped
+|   |   |       R_Tough.ped
+|   |   |       R_Weak.ped
+|   |   |       
+|   |   +---andyd
+|   |   |       ADgrp.grp
+|   |   |       ADtemp.ped
+|   |   |       
+|   |   +---chris
+|   |   |       maf5.ped
+|   |   |       ryder3.ped
+|   |   |       
+|   |   +---ChrisM
+|   |   |       CMblnk.ped
+|   |   |       m_std_cm.ped
+|   |   |       
+|   |   +---Craig
+|   |   |       crack1.ped
+|   |   |       
+|   |   +---david
+|   |   |       dam_sec.ped
+|   |   |       hei2_sc.ped
+|   |   |       
+|   |   \---Imran
+|   |           sci1_is.ped
+|   |           std1_is.ped
+|   |           std2_is.ped
+|   |           
+|   +---Icons
+|   |       app.ico
+|   |       bin.ico
+|   |       saicon.ICN
+|   |       saicon2.ICN
+|   |       saicon3.ICN
+|   |       
+|   +---maps
+|   |   |   Audiozon.ipl
+|   |   |   cull.ipl
+|   |   |   occlu.ipl
+|   |   |   occluint.ipl
+|   |   |   occluLA.ipl
+|   |   |   occlusf.ipl
+|   |   |   occluveg.ipl
+|   |   |   paths.ipl
+|   |   |   paths2.ipl
+|   |   |   paths3.ipl
+|   |   |   paths4.ipl
+|   |   |   paths5.ipl
+|   |   |   tunnels.ipl
+|   |   |   txd.ide
+|   |   |   
+|   |   +---country
+|   |   |       countn2.ide
+|   |   |       countn2.ipl
+|   |   |       countrye.ide
+|   |   |       countrye.ipl
+|   |   |       countryN.ide
+|   |   |       countryN.ipl
+|   |   |       countryS.ide
+|   |   |       countryS.ipl
+|   |   |       countryW.ide
+|   |   |       countryw.ipl
+|   |   |       counxref.ide
+|   |   |       
+|   |   +---generic
+|   |   |       barriers.ide
+|   |   |       dynamic.ide
+|   |   |       dynamic2.ide
+|   |   |       multiobj.ide
+|   |   |       procobj.ide
+|   |   |       vegepart.ide
+|   |   |       
+|   |   +---interior
+|   |   |       gen_int1.ide
+|   |   |       gen_int1.ipl
+|   |   |       gen_int2.ide
+|   |   |       gen_int2.ipl
+|   |   |       gen_int3.ide
+|   |   |       gen_int3.ipl
+|   |   |       gen_int4.ide
+|   |   |       gen_int4.ipl
+|   |   |       gen_int5.ide
+|   |   |       gen_int5.ipl
+|   |   |       gen_intb.ide
+|   |   |       gen_intb.ipl
+|   |   |       int_cont.ide
+|   |   |       int_cont.ipl
+|   |   |       int_LA.ide
+|   |   |       int_LA.ipl
+|   |   |       int_SF.ide
+|   |   |       int_SF.ipl
+|   |   |       int_veg.ide
+|   |   |       int_veg.ipl
+|   |   |       propext.ide
+|   |   |       props.ide
+|   |   |       props2.ide
+|   |   |       savehous.ide
+|   |   |       savehous.ipl
+|   |   |       stadint.ide
+|   |   |       stadint.ipl
+|   |   |       
+|   |   +---LA
+|   |   |       LAe.ide
+|   |   |       LAe.ipl
+|   |   |       LAe2.ide
+|   |   |       LAe2.ipl
+|   |   |       LAhills.ide
+|   |   |       LAhills.ipl
+|   |   |       LAn.ide
+|   |   |       LAn.ipl
+|   |   |       LAn2.ide
+|   |   |       LAn2.ipl
+|   |   |       LAs.ide
+|   |   |       LAs.ipl
+|   |   |       LAs2.ide
+|   |   |       LAs2.ipl
+|   |   |       LAw.ide
+|   |   |       LAw.ipl
+|   |   |       LAw2.ide
+|   |   |       LAw2.ipl
+|   |   |       LaWn.ide
+|   |   |       LaWn.ipl
+|   |   |       LAxref.ide
+|   |   |       
+|   |   +---leveldes
+|   |   |       leveldes.ide
+|   |   |       leveldes.ipl
+|   |   |       levelmap.ide
+|   |   |       levelmap.ipl
+|   |   |       levelxre.ide
+|   |   |       seabed.ide
+|   |   |       seabed.ipl
+|   |   |       
+|   |   +---SF
+|   |   |       SFe.ide
+|   |   |       SFe.ipl
+|   |   |       SFn.ide
+|   |   |       SFn.ipl
+|   |   |       SFs.ide
+|   |   |       SFs.ipl
+|   |   |       SFSe.ide
+|   |   |       SFSe.ipl
+|   |   |       SFw.ide
+|   |   |       SFw.ipl
+|   |   |       SFxref.ide
+|   |   |       
+|   |   +---vegas
+|   |   |       vegasE.ide
+|   |   |       vegasE.ipl
+|   |   |       VegasN.ide
+|   |   |       vegasN.ipl
+|   |   |       VegasS.ide
+|   |   |       vegasS.ipl
+|   |   |       VegasW.ide
+|   |   |       vegasW.ipl
+|   |   |       vegaxref.ide
+|   |   |       vegaxref.ipl
+|   |   |       
+|   |   \---veh_mods
+|   |           veh_mods.ide
+|   |           
+|   +---Paths
+|   |       carrec.img
+|   |       NODES0.DAT
+|   |       NODES1.DAT
+|   |       NODES10.DAT
+|   |       NODES11.DAT
+|   |       NODES12.DAT
+|   |       NODES13.DAT
+|   |       NODES14.DAT
+|   |       NODES15.DAT
+|   |       NODES16.DAT
+|   |       NODES17.DAT
+|   |       NODES18.DAT
+|   |       NODES19.DAT
+|   |       NODES2.DAT
+|   |       NODES20.DAT
+|   |       NODES21.DAT
+|   |       NODES22.DAT
+|   |       NODES23.DAT
+|   |       NODES24.DAT
+|   |       NODES25.DAT
+|   |       NODES26.DAT
+|   |       NODES27.DAT
+|   |       NODES28.DAT
+|   |       NODES29.DAT
+|   |       NODES3.DAT
+|   |       NODES30.DAT
+|   |       NODES31.DAT
+|   |       NODES32.DAT
+|   |       NODES33.DAT
+|   |       NODES34.DAT
+|   |       NODES35.DAT
+|   |       NODES36.DAT
+|   |       NODES37.DAT
+|   |       NODES38.DAT
+|   |       NODES39.DAT
+|   |       NODES4.DAT
+|   |       NODES40.DAT
+|   |       NODES41.DAT
+|   |       NODES42.DAT
+|   |       NODES43.DAT
+|   |       NODES44.DAT
+|   |       NODES45.DAT
+|   |       NODES46.DAT
+|   |       NODES47.DAT
+|   |       NODES48.DAT
+|   |       NODES49.DAT
+|   |       NODES5.DAT
+|   |       NODES50.DAT
+|   |       NODES51.DAT
+|   |       NODES52.DAT
+|   |       NODES53.DAT
+|   |       NODES54.DAT
+|   |       NODES55.DAT
+|   |       NODES56.DAT
+|   |       NODES57.DAT
+|   |       NODES58.DAT
+|   |       NODES59.DAT
+|   |       NODES6.DAT
+|   |       NODES60.DAT
+|   |       NODES61.DAT
+|   |       NODES62.DAT
+|   |       NODES63.DAT
+|   |       NODES7.DAT
+|   |       NODES8.DAT
+|   |       NODES9.DAT
+|   |       ROADBLOX.DAT
+|   |       spath0.dat
+|   |       tracks.dat
+|   |       tracks2.dat
+|   |       tracks3.dat
+|   |       tracks4.dat
+|   |       train.dat
+|   |       train2.dat
+|   |       
+|   \---script
+|           main.scm
+|           script.img
+|           
++---icons
+|       app.ico
+|       gta_sa.ico
+|       icon.ico
+|       
++---models
+|   |   cutscene.img
+|   |   effects.fxp
+|   |   effectsPC.txd
+|   |   fonts.txd
+|   |   fronten1.txd
+|   |   fronten2.txd
+|   |   fronten3.txd
+|   |   fronten_pc.txd
+|   |   gta3.img
+|   |   gta_int.img
+|   |   hud.txd
+|   |   misc.txd
+|   |   Mobile_details.txd
+|   |   particle.txd
+|   |   pcbtns.txd
+|   |   player.img
+|   |   ps3btns.txd
+|   |   sixaxis.txd
+|   |   texdb.txt
+|   |   x360btns.txd
+|   |   
+|   +---coll
+|   |       peds.col
+|   |       vehicles.col
+|   |       weapons.col
+|   |       
+|   +---generic
+|   |       air_vlo.DFF
+|   |       arrow.DFF
+|   |       hoop.dff
+|   |       vehicle.txd
+|   |       wheels.DFF
+|   |       wheels.txd
+|   |       zonecylb.DFF
+|   |       
+|   +---grass
+|   |       grass0_1.dff
+|   |       grass0_2.dff
+|   |       grass0_3.dff
+|   |       grass0_4.dff
+|   |       grass1_1.dff
+|   |       grass1_2.dff
+|   |       grass1_3.dff
+|   |       grass1_4.dff
+|   |       grass2_1.dff
+|   |       grass2_2.dff
+|   |       grass2_3.dff
+|   |       grass2_4.dff
+|   |       grass3_1.dff
+|   |       grass3_2.dff
+|   |       grass3_3.dff
+|   |       grass3_4.dff
+|   |       plant1.dff
+|   |       plant1.txd
+|   |       
+|   \---txd
+|           intro1.txd
+|           intro2.txd
+|           INTRO3.TXD
+|           intro4.txd
+|           LD_BEAT.txd
+|           LD_BUM.txd
+|           LD_CARD.txd
+|           LD_CHAT.txd
+|           LD_DRV.txd
+|           LD_DUAL.txd
+|           ld_grav.txd
+|           LD_NONE.txd
+|           LD_OTB.txd
+|           LD_OTB2.txd
+|           LD_PLAN.txd
+|           LD_POKE.txd
+|           LD_POOL.txd
+|           LD_RACE.txd
+|           LD_RCE1.txd
+|           LD_RCE2.txd
+|           LD_RCE3.txd
+|           LD_RCE4.txd
+|           LD_RCE5.txd
+|           LD_ROUL.txd
+|           ld_shtr.txd
+|           LD_SLOT.txd
+|           LD_SPAC.txd
+|           LD_TATT.txd
+|           load0uk.txd
+|           loadsc0.txd
+|           loadsc1.txd
+|           loadsc10.txd
+|           loadsc11.txd
+|           loadsc12.txd
+|           loadsc13.txd
+|           loadsc14.txd
+|           loadsc2.txd
+|           loadsc3.txd
+|           loadsc4.txd
+|           loadsc5.txd
+|           loadsc6.txd
+|           loadsc7.txd
+|           loadsc8.txd
+|           loadsc9.txd
+|           LOADSCS.txd
+|           LOADSUK.txd
+|           outro.txd
+|           splash1.txd
+|           splash2.txd
+|           splash3.txd
+|           
++---modloader
+|   |   modloader.ini
+|   |   modloader.log
+|   |   
+|   +---.data
+|   |   |   CHANGELOG.md
+|   |   |   Command Line Arguments.md
+|   |   |   config.ini
+|   |   |   config.ini.0
+|   |   |   Leia-me.md
+|   |   |   LICENSE
+|   |   |   modloader.ini.0
+|   |   |   plugins.ini.0
+|   |   |   Profiles.md
+|   |   |   Readme.md
+|   |   |   
+|   |   +---licenses
+|   |   |       boost.txt
+|   |   |       cereal.txt
+|   |   |       tinympl.txt
+|   |   |       utf8-cpp.txt
+|   |   |       
+|   |   +---plugins
+|   |   |   |   plugins.ini
+|   |   |   |   
+|   |   |   \---gta3
+|   |   |           std.asi.dll
+|   |   |           std.asi.md
+|   |   |           std.bank.dll
+|   |   |           std.bank.md
+|   |   |           std.data.dll
+|   |   |           std.data.md
+|   |   |           std.fx.dll
+|   |   |           std.fx.md
+|   |   |           std.movies.dll
+|   |   |           std.movies.md
+|   |   |           std.scm.dll
+|   |   |           std.scm.md
+|   |   |           std.sprites.dll
+|   |   |           std.sprites.md
+|   |   |           std.stream.dll
+|   |   |           std.stream.md
+|   |   |           std.text.dll
+|   |   |           std.text.md
+|   |   |           std.tracks.dll
+|   |   |           std.tracks.md
+|   |   |           
+|   |   \---text
+|   |       \---1033
+|   |               menu.fxt
+|   |               
+|   +---.profiles
+|   +---Beta Gang Members
+|   |   |   ExGangWars.asi
+|   |   |   ExGangWars.ini
+|   |   |   stadium_sfse.txd
+|   |   |   ViceShadows.asi
+|   |   |   
+|   |   +---cleo
+|   |   |       HUDFix.cs
+|   |   |       
+|   |   +---data
+|   |   |       pedgrp.dat
+|   |   |       peds.ide
+|   |   |       
+|   |   \---models
+|   |       \---gta3.img
+|   |               ballas4.dff
+|   |               ballas4.txd
+|   |               ballas5.dff
+|   |               ballas5.txd
+|   |               ballas6.dff
+|   |               ballas6.txd
+|   |               ballas7.dff
+|   |               ballas7.txd
+|   |               ballas8.dff
+|   |               ballas8.txd
+|   |               ballas9.dff
+|   |               ballas9.txd
+|   |               fam10.dff
+|   |               fam10.txd
+|   |               fam11.dff
+|   |               fam11.txd
+|   |               fam12.dff
+|   |               fam12.txd
+|   |               fam4.dff
+|   |               fam4.txd
+|   |               fam5.dff
+|   |               fam5.txd
+|   |               fam6.dff
+|   |               fam6.txd
+|   |               fam7.dff
+|   |               fam7.txd
+|   |               fam8.dff
+|   |               fam8.txd
+|   |               fam9.dff
+|   |               fam9.txd
+|   |               LSV4.dff
+|   |               LSV4.txd
+|   |               LSV5.dff
+|   |               LSV5.txd
+|   |               LSV6.dff
+|   |               LSV6.txd
+|   |               LSV7.dff
+|   |               LSV7.txd
+|   |               oldboss.dff
+|   |               oldboss.txd
+|   |               sfr4.dff
+|   |               sfr4.txd
+|   |               sfr5.dff
+|   |               sfr5.txd
+|   |               vla4.dff
+|   |               vla4.txd
+|   |               vla5.dff
+|   |               vla5.txd
+|   |               vla6.dff
+|   |               vla6.txd
+|   |               
+|   +---Beta Vinewood Sign Vegetation
+|   |       readme.txt
+|   |       vineveg.ipl
+|   |       vineveg.txt
+|   |       
+|   +---Chinese Lanterns
+|   |   +---Chinalamp
+|   |   |       chinalamp_sf.dff
+|   |   |       china_light.txd
+|   |   |       
+|   |   \---Lanterns
+|   |           cables16.dff
+|   |           cables_sfe.txd
+|   |           
+|   +---Cutscene ESRGAN Upscale
+|   |   \---models
+|   |       \---cutscene.img
+|   |               beer_girla.txd
+|   |               beer_playa.txd
+|   |               beer_playb.txd
+|   |               botplay.txd
+|   |               bottle.txd
+|   |               burg_ga.txd
+|   |               burg_pa.txd
+|   |               chick_girla.txd
+|   |               chick_playa.txd
+|   |               cs9mm.txd
+|   |               csammobox.txd
+|   |               csammostack.txd
+|   |               csashtray.txd
+|   |               csbarbq.txd
+|   |               csbarrel.txd
+|   |               csbarrel2.txd
+|   |               csbat.txd
+|   |               csbball.txd
+|   |               csbcard.txd
+|   |               csbdup.txd
+|   |               csbeerbottle.txd
+|   |               csbenchchair.txd
+|   |               csbetchip.txd
+|   |               csbetchip02.txd
+|   |               csbettina.txd
+|   |               csbfyst.txd
+|   |               csbigbear.txd
+|   |               csbigbear2.txd
+|   |               csbigbearthin.txd
+|   |               csbjd.txd
+|   |               csblender.txd
+|   |               csblue2.txd
+|   |               csblue2_2.txd
+|   |               csblue2_3.txd
+|   |               csblue2_4.txd
+|   |               csblue2_5.txd
+|   |               csblue3.txd
+|   |               csblue4.txd
+|   |               csbmybu.txd
+|   |               csbmydj.txd
+|   |               csbobcat92.txd
+|   |               csbogman.txd
+|   |               csbong.txd
+|   |               csbooka.txd
+|   |               csbookb.txd
+|   |               csbottle.txd
+|   |               csbowl.txd
+|   |               csbpack.txd
+|   |               csbravura.txd
+|   |               csbrgrtray.txd
+|   |               csbriqttes.txd
+|   |               csbroom.txd
+|   |               csbtdr.txd
+|   |               csbullhorn.txd
+|   |               csburger1.txd
+|   |               csburger2.txd
+|   |               csburgerbox.txd
+|   |               csburrito92.txd
+|   |               cscaligsign.txd
+|   |               cscamera.txd
+|   |               cscard.txd
+|   |               cscarddeck.txd
+|   |               cscarryall.txd
+|   |               cscase.txd
+|   |               cscastab.txd
+|   |               cscastray.txd
+|   |               cscatalina.txd
+|   |               cscatcabdoor.txd
+|   |               cscesar.txd
+|   |               cscesargardoor.txd
+|   |               cschair.txd
+|   |               cschopsticks.txd
+|   |               cscigarette.txd
+|   |               cscigrydr3.txd
+|   |               csclaude.txd
+|   |               csclip.txd
+|   |               cscloth.txd
+|   |               csclothsolid.txd
+|   |               cscokelines.txd
+|   |               cscoketube.txd
+|   |               cscolt45.txd
+|   |               csconboss.txd
+|   |               cscontract.txd
+|   |               cscontroller.txd
+|   |               cscooker.txd
+|   |               cscopcarla.txd
+|   |               cscopcarla92.txd
+|   |               cscopcarsf.txd
+|   |               cscopmobile.txd
+|   |               cscopmobile2.txd
+|   |               cscrackbottle.txd
+|   |               cscrackpipe.txd
+|   |               cscrowbar.txd
+|   |               cscup.txd
+|   |               csdancea.txd
+|   |               csdanceb.txd
+|   |               csdancepole.txd
+|   |               csdeckchair.txd
+|   |               csdescrate.txd
+|   |               csdeserteagle.txd
+|   |               csdinghy.txd
+|   |               csdomino.txd
+|   |               csdominoes.txd
+|   |               csdoor.txd
+|   |               csdoorbdup.txd
+|   |               csdoortricas.txd
+|   |               csdope.txd
+|   |               csdossier.txd
+|   |               csdress.txd
+|   |               csdrinkset.txd
+|   |               csdrug1.txd
+|   |               csdwayne.txd
+|   |               csemmet.txd
+|   |               csengine.txd
+|   |               csfarlie.txd
+|   |               csfirela.txd
+|   |               csflame.txd
+|   |               csflower.txd
+|   |               csfoldchair.txd
+|   |               csframe.txd
+|   |               csfridge.txd
+|   |               csgaragedoor.txd
+|   |               csgaragetrolley.txd
+|   |               csgfpizzatray1.txd
+|   |               csgfpizzatray2.txd
+|   |               csgfprox.txd
+|   |               csgfsprunk.txd
+|   |               csgiantwheel.txd
+|   |               csgiantwrench.txd
+|   |               csgirliecase.txd
+|   |               csgizmo.txd
+|   |               csglendale92.txd
+|   |               csgoldrec.txd
+|   |               csgolfball.txd
+|   |               csgolfclub.txd
+|   |               csgreengoo.txd
+|   |               csgreenwood.txd
+|   |               csgrgchair.txd
+|   |               csgrgtable.txd
+|   |               csgrove1.txd
+|   |               cshandcuff.txd
+|   |               cshands.txd
+|   |               cshatch.txd
+|   |               csheadsack.txd
+|   |               csheckler1.txd
+|   |               csheckler2.txd
+|   |               csheistbox.txd
+|   |               csheistmap.txd
+|   |               cshelper1.txd
+|   |               cshelper2.txd
+|   |               cshernandez.txd
+|   |               csho.txd
+|   |               cshoover.txd
+|   |               csjanitor.txd
+|   |               csjar.txd
+|   |               csjethro.txd
+|   |               csjetpack.txd
+|   |               csjizzy.txd
+|   |               csjose.txd
+|   |               cskendl.txd
+|   |               cskentpaul.txd
+|   |               csknife.txd
+|   |               csknifewall.txd
+|   |               cslegend566.txd
+|   |               cslighterfluid.txd
+|   |               cslilbil.txd
+|   |               cslockupdr1.txd
+|   |               cslockupdr2.txd
+|   |               cslongtab.txd
+|   |               cslongtabcas3.txd
+|   |               csm16.txd
+|   |               csmaccer.txd
+|   |               csmadddogg.txd
+|   |               csmaddogchairs.txd
+|   |               csmafchair.txd
+|   |               csmafcouch.txd
+|   |               csmafdoor.txd
+|   |               csmafext.txd
+|   |               csmafgoon1_maffa.txd
+|   |               csmafgoon2_maffb.txd
+|   |               csmanacle.txd
+|   |               csmaria.txd
+|   |               csmdmic.txd
+|   |               csmdtv.txd
+|   |               csmech.txd
+|   |               csmomchair.txd
+|   |               csmomsfurniture.txd
+|   |               csmoneysing.txd
+|   |               csmoneystck.txd
+|   |               csmonster.txd
+|   |               csmop.txd
+|   |               csmopbucket.txd
+|   |               csmotelfurniture.txd
+|   |               csmothership.txd
+|   |               csmstand.txd
+|   |               csmtbike92.txd
+|   |               csnewspaper.txd
+|   |               csnotepad.txd
+|   |               csogloc.txd
+|   |               csoglocburger.txd
+|   |               csoilcan.txd
+|   |               csom2.txd
+|   |               csomost.txd
+|   |               cspaperbag.txd
+|   |               cspapers.txd
+|   |               csparrot.txd
+|   |               csparrotperch.txd
+|   |               cspen.txd
+|   |               cspencil.txd
+|   |               csphotos.txd
+|   |               cspl1_l.txd
+|   |               cspl1_r.txd
+|   |               csplas1.txd
+|   |               csplaycards01.txd
+|   |               cspolic.txd
+|   |               cspolicesa.txd
+|   |               cspornmag.txd
+|   |               cspro1.txd
+|   |               cspulaski.txd
+|   |               cspunter1.txd
+|   |               cspunter2.txd
+|   |               csrcrdchair.txd
+|   |               csremington92.txd
+|   |               csremote.txd
+|   |               csrope.txd
+|   |               csrosenberg.txd
+|   |               csrunboard.txd
+|   |               csryder.txd
+|   |               csryderbrew.txd
+|   |               cssabre92.txd
+|   |               cssadler.txd
+|   |               cssalvatore.txd
+|   |               cssavanna.txd
+|   |               cssecurica92.txd
+|   |               cssilenced.txd
+|   |               cssilverman.txd
+|   |               cssindacco.txd
+|   |               cssklight.txd
+|   |               csslut.txd
+|   |               cssmg.txd
+|   |               cssmoke.txd
+|   |               cssmokedoor.txd
+|   |               cssmokehall.txd
+|   |               cssmokevest.txd
+|   |               cssmokevest2.txd
+|   |               cssofa2.txd
+|   |               cssofa3.txd
+|   |               csspade.txd
+|   |               csspray.txd
+|   |               csstew.txd
+|   |               csstool.txd
+|   |               cssuit2.txd
+|   |               cssuitcase.txd
+|   |               cssuzie.txd
+|   |               cssweet.txd
+|   |               cssweethall.txd
+|   |               cssweetsofa.txd
+|   |               csswivelch.txd
+|   |               cstable.txd
+|   |               cstablelo.txd
+|   |               cstablelosweet3a.txd
+|   |               cstacoplate.txd
+|   |               cstaxi92.txd
+|   |               cstbone.txd
+|   |               cstenpenny.txd
+|   |               cstexan.txd
+|   |               cstexan2.txd
+|   |               csthrowknife.txd
+|   |               cstony_x.txd
+|   |               cstoolkit.txd
+|   |               cstorino.txd
+|   |               cstriada.txd
+|   |               cstriada2.txd
+|   |               cstriada3.txd
+|   |               cstriboss.txd
+|   |               cstrichair.txd
+|   |               cstritable.txd
+|   |               cstrolley.txd
+|   |               cstruth.txd
+|   |               cstvunit.txd
+|   |               csvoodoo.txd
+|   |               cswallphone.txd
+|   |               cswashington.txd
+|   |               cswheel.txd
+|   |               cswheelchair.txd
+|   |               cswmori.txd
+|   |               cswoozie.txd
+|   |               cswrench.txd
+|   |               cswuzchair.txd
+|   |               cswzkitch.txd
+|   |               cszero.txd
+|   |               cszerocupboard.txd
+|   |               cszerorack.txd
+|   |               cszr350.txd
+|   |               cszr350b.txd
+|   |               diners_playa.txd
+|   |               diner_girlb.txd
+|   |               diner_playb.txd
+|   |               fam4.txd
+|   |               fam5.txd
+|   |               fork_girla.txd
+|   |               fork_girlb.txd
+|   |               fork_playa.txd
+|   |               fork_playb.txd
+|   |               gfdrink.txd
+|   |               gfpiz1.txd
+|   |               gfpiz2.txd
+|   |               gfriend.txd
+|   |               knife_girla.txd
+|   |               knife_girlb.txd
+|   |               knife_playa.txd
+|   |               knife_playb.txd
+|   |               plate_girla.txd
+|   |               plate_girlb.txd
+|   |               plate_playa.txd
+|   |               plate_playb.txd
+|   |               preq_cargo.txd
+|   |               
+|   +---Enterable Hidden Interiors
+|   |   |   EHI.asi
+|   |   |   SimpleLimitAdjuster_Enex.asi
+|   |   |   
+|   |   +---CLEO
+|   |   |       EHI.cs
+|   |   |       Ovens catch on fire.cs
+|   |   |       
+|   |   +---data
+|   |   |   |   gta dat.txt
+|   |   |   |   
+|   |   |   \---maps
+|   |   |       \---EHI
+|   |   |               EHI.ipl
+|   |   |               
+|   |   +---map files replace
+|   |   |   |   .manual install.txt
+|   |   |   |   
+|   |   |   +---LA
+|   |   |   |       LAn2.ipl
+|   |   |   |       
+|   |   |   \---leveldes
+|   |   |           levelmap.ide
+|   |   |           levelmap.ipl
+|   |   |           
+|   |   \---models
+|   |       +---gta3.img
+|   |       |       a51_detailstuff.txd
+|   |       |       CJ_CUSTOM_BAR.dff
+|   |       |       countn2_5.col
+|   |       |       countrye_13.col
+|   |       |       des_a51infenc.dff
+|   |       |       lan2office.txd
+|   |       |       lan2_1.col
+|   |       |       laxref.col
+|   |       |       levelmap_1.col
+|   |       |       sfse_12.col
+|   |       |       skyscrapn203_gls.dff
+|   |       |       sw_gas01.dff
+|   |       |       vgnvrock.txd
+|   |       |       
+|   |       \---gta_int.img
+|   |               ab_mafsuiteDoor.dff
+|   |               gen_int3_1.col
+|   |               gen_int4_1.col
+|   |               gen_int5_1.col
+|   |               gen_int5_2.col
+|   |               gen_intb_2.col
+|   |               int_cont_1.col
+|   |               int_la_2.col
+|   |               int_la_4.col
+|   |               int_veg_1.col
+|   |               props.col
+|   |               props2.col
+|   |               
+|   +---Food Eating Fix
+|   |   +---cleo
+|   |   |       Food Eating Fix (Junior_Djjr).cs
+|   |   |       Food Eating Fix.ini
+|   |   |       
+|   |   \---food models
+|   |           food eating fix.col
+|   |           food eating fix.IDE
+|   |           food eating fix.txt
+|   |           friedchick.dff
+|   |           friedchick.txd
+|   |           hotdogfood.dff
+|   |           hotdogfood.txd
+|   |           rustysep.dff
+|   |           rustysep.txd
+|   |           
+|   +---Forgoten Clothes
+|   |   |   surfinfo.dat
+|   |   |   
+|   |   +---cleo
+|   |   |   \---cleo_text
+|   |   |           Roupas.fxt
+|   |   |           
+|   |   +---data
+|   |   |       shopping.dat
+|   |   |       
+|   |   \---player.img
+|   |           timberfawn.txd
+|   |           
+|   +---GTASA.WidescreenFix
+|   |   |   vorbisFile.dll
+|   |   |   
+|   |   \---scripts
+|   |           GTASA.WidescreenFix.asi
+|   |           GTASA.WidescreenFix.ini
+|   |           
+|   +---Hands Charecters + Beta Peds
+|   |   |   bb.dff
+|   |   |   bb.txd
+|   |   |   bbthin.dff
+|   |   |   bbthin.txd
+|   |   |   bfybu.dff
+|   |   |   bfybu.txd
+|   |   |   bfypro.dff
+|   |   |   bfypro.txd
+|   |   |   bfyri.dff
+|   |   |   bfyri.txd
+|   |   |   bmochil.dff
+|   |   |   bmochil.txd
+|   |   |   bmori.dff
+|   |   |   bmori.txd
+|   |   |   bmybu.txd
+|   |   |   bmycg.dff
+|   |   |   bmycg.txd
+|   |   |   bmydj.dff
+|   |   |   bmydj.txd
+|   |   |   bmydrug.dff
+|   |   |   bmydrug.txd
+|   |   |   bmypol2.dff
+|   |   |   bmypol2.txd
+|   |   |   bmytatt.txd
+|   |   |   cat.dff
+|   |   |   cat.txd
+|   |   |   cesar.dff
+|   |   |   cesar.txd
+|   |   |   claude.dff
+|   |   |   claude.txd
+|   |   |   csbdup.dff
+|   |   |   csbdup.txd
+|   |   |   csbettina.dff
+|   |   |   csbettina.txd
+|   |   |   csbogman.dff
+|   |   |   csbogman.txd
+|   |   |   csburger1.dff
+|   |   |   csburger1.txd
+|   |   |   cscesar.dff
+|   |   |   cscesar.txd
+|   |   |   csclaude.dff
+|   |   |   csclaude.txd
+|   |   |   csdwayne.dff
+|   |   |   csfarlie.dff
+|   |   |   cshernandez.dff
+|   |   |   cshernandez.txd
+|   |   |   csjethro.dff
+|   |   |   csjizzy.dff
+|   |   |   csjose.dff
+|   |   |   csjose.txd
+|   |   |   cskendl.dff
+|   |   |   cskendl.txd
+|   |   |   cskentpaul.dff
+|   |   |   csmaccer.dff
+|   |   |   csmadddogg.dff
+|   |   |   csmaria.dff
+|   |   |   csogloc.dff
+|   |   |   csogloc.txd
+|   |   |   csoglocburger.dff
+|   |   |   cspulaski.dff
+|   |   |   cspulaski.txd
+|   |   |   csrosenberg.dff
+|   |   |   csryder.dff
+|   |   |   csryder.txd
+|   |   |   cssalvatore.dff
+|   |   |   cssilverman.dff
+|   |   |   cssindacco.dff
+|   |   |   csslut.dff
+|   |   |   cssmoke.dff
+|   |   |   cssmoke.txd
+|   |   |   cssmokevest.dff
+|   |   |   cssmokevest.txd
+|   |   |   cssmokevest2.dff
+|   |   |   cssmokevest2.txd
+|   |   |   cssuzie.dff
+|   |   |   cssweet.dff
+|   |   |   cssweet.txd
+|   |   |   cstbone.dff
+|   |   |   cstenpenny.dff
+|   |   |   cstenpenny.txd
+|   |   |   cstorino.dff
+|   |   |   cstriada.dff
+|   |   |   cstriada2.dff
+|   |   |   cstruth.dff
+|   |   |   cswoozie.dff
+|   |   |   cszero.dff
+|   |   |   cs_hands.dff
+|   |   |   dwayne.dff
+|   |   |   dwayne.txd
+|   |   |   emmet.dff
+|   |   |   emmet.txd
+|   |   |   fam3.dff
+|   |   |   fam3.txd
+|   |   |   hands.dff
+|   |   |   hern.dff
+|   |   |   hern.txd
+|   |   |   hfyst.txd
+|   |   |   hmori.dff
+|   |   |   hmori.txd
+|   |   |   hmycr.dff
+|   |   |   hmycr.txd
+|   |   |   janitor.dff
+|   |   |   janitor.txd
+|   |   |   jethro.dff
+|   |   |   jethro.txd
+|   |   |   jizzy.dff
+|   |   |   jizzy.txd
+|   |   |   lapdm1.dff
+|   |   |   lapdm1.txd
+|   |   |   maccer.dff
+|   |   |   maccer.txd
+|   |   |   maddogg.dff
+|   |   |   maddogg.txd
+|   |   |   ogloc.dff
+|   |   |   ogloc.txd
+|   |   |   omost.dff
+|   |   |   omost.txd
+|   |   |   paul.dff
+|   |   |   paul.txd
+|   |   |   pulaski.dff
+|   |   |   pulaski.txd
+|   |   |   rose.dff
+|   |   |   rose.txd
+|   |   |   ryder2.dff
+|   |   |   ryder2.txd
+|   |   |   sindaco.dff
+|   |   |   sindaco.txd
+|   |   |   smoke.dff
+|   |   |   smoke.txd
+|   |   |   smokev.dff
+|   |   |   smokev.txd
+|   |   |   sofybu.dff
+|   |   |   sofybu.txd
+|   |   |   sofyri.dff
+|   |   |   sofyri.txd
+|   |   |   somybu.dff
+|   |   |   somybu.txd
+|   |   |   suzie.dff
+|   |   |   suzie.txd
+|   |   |   sweet.dff
+|   |   |   sweet.txd
+|   |   |   swmyhp2.dff
+|   |   |   swmyhp2.txd
+|   |   |   tbone.dff
+|   |   |   tbone.txd
+|   |   |   tenpen.dff
+|   |   |   tenpen.txd
+|   |   |   torino.dff
+|   |   |   torino.txd
+|   |   |   triada.dff
+|   |   |   triada.txd
+|   |   |   triadb.dff
+|   |   |   triadb.txd
+|   |   |   triboss.dff
+|   |   |   triboss.txd
+|   |   |   truth.dff
+|   |   |   truth.txd
+|   |   |   vbfypro.dff
+|   |   |   vbfypro.txd
+|   |   |   vhfypro.dff
+|   |   |   vhfypro.txd
+|   |   |   wmyjg.dff
+|   |   |   wmyjg.txd
+|   |   |   wmymech.dff
+|   |   |   wmymech.txd
+|   |   |   wmymoun.dff
+|   |   |   wmymoun.txd
+|   |   |   wmyri.txd
+|   |   |   wuzimu.dff
+|   |   |   wuzimu.txd
+|   |   |   zero.dff
+|   |   |   zero.txd
+|   |   |   
+|   |   \---CJ ESRGAN Upscale
+|   |       |   desktop.ini
+|   |       |   
+|   |       +---Player
+|   |       |   \---player.img
+|   |       |           afro.txd
+|   |       |           afrobeard.txd
+|   |       |           afroblond.txd
+|   |       |           afrogoatee.txd
+|   |       |           afrotash.txd
+|   |       |           balaclava.txd
+|   |       |           bald.txd
+|   |       |           baldbeard.txd
+|   |       |           baldgoatee.txd
+|   |       |           baldtash.txd
+|   |       |           bandanablu.txd
+|   |       |           bandanaflag.txd
+|   |       |           bandanagang.txd
+|   |       |           bandanaleaf.txd
+|   |       |           bandanared.txd
+|   |       |           bandanaskull.txd
+|   |       |           bandblack.txd
+|   |       |           bandblack2.txd
+|   |       |           bandblack3.txd
+|   |       |           bandblue.txd
+|   |       |           bandblue2.txd
+|   |       |           bandblue3.txd
+|   |       |           bandgang.txd
+|   |       |           bandgang2.txd
+|   |       |           bandgang3.txd
+|   |       |           bandgang4.txd
+|   |       |           bandits.txd
+|   |       |           bandred.txd
+|   |       |           bandred2.txd
+|   |       |           bandred3.txd
+|   |       |           bask1eris.txd
+|   |       |           bask1problk.txd
+|   |       |           bask1prowht.txd
+|   |       |           bask2heatband.txd
+|   |       |           bask2heatwht.txd
+|   |       |           bask2semi.txd
+|   |       |           baskballdrib.txd
+|   |       |           baskballloc.txd
+|   |       |           baskballrim.txd
+|   |       |           bballjackrstar.txd
+|   |       |           bbjack.txd
+|   |       |           bbjackrim.txd
+|   |       |           bbjersey.txd
+|   |       |           bbshortred.txd
+|   |       |           bbshortwht.txd
+|   |       |           beard.txd
+|   |       |           beretblk.txd
+|   |       |           beretred.txd
+|   |       |           biegetr.txd
+|   |       |           biker.txd
+|   |       |           bikerhelmet.txd
+|   |       |           boater.txd
+|   |       |           boaterblk.txd
+|   |       |           bowler.txd
+|   |       |           bowlerblue.txd
+|   |       |           bowlergang.txd
+|   |       |           bowlerred.txd
+|   |       |           bowleryellow.txd
+|   |       |           bowling.txd
+|   |       |           boxingcap.txd
+|   |       |           boxingshoe.txd
+|   |       |           boxshort.txd
+|   |       |           capblk.txd
+|   |       |           capblkback.txd
+|   |       |           capblkover.txd
+|   |       |           capblkside.txd
+|   |       |           capblkup.txd
+|   |       |           capblue.txd
+|   |       |           capblueback.txd
+|   |       |           capblueover.txd
+|   |       |           capblueside.txd
+|   |       |           capblueup.txd
+|   |       |           capgang.txd
+|   |       |           capgangback.txd
+|   |       |           capgangover.txd
+|   |       |           capgangside.txd
+|   |       |           capgangup.txd
+|   |       |           capgrey.txd
+|   |       |           capgreyback.txd
+|   |       |           capgreyup.txd
+|   |       |           capknitblk.txd
+|   |       |           capknitgrn.txd
+|   |       |           capnband.txd
+|   |       |           capnbandgang.txd
+|   |       |           capovergang.txd
+|   |       |           capoverred.txd
+|   |       |           cappolice.txd
+|   |       |           capred.txd
+|   |       |           capredback.txd
+|   |       |           capredover.txd
+|   |       |           capredside.txd
+|   |       |           capredup.txd
+|   |       |           captruck.txd
+|   |       |           capzip.txd
+|   |       |           capzipback.txd
+|   |       |           capzipover.txd
+|   |       |           capzipside.txd
+|   |       |           capzipup.txd
+|   |       |           chinosbiege.txd
+|   |       |           chinosblack.txd
+|   |       |           chinosblue.txd
+|   |       |           chinoskhaki.txd
+|   |       |           chongerblue.txd
+|   |       |           chongergang.txd
+|   |       |           chongergrey.txd
+|   |       |           chongerred.txd
+|   |       |           chucksblack.txd
+|   |       |           coach.txd
+|   |       |           coachsemi.txd
+|   |       |           convheatblk.txd
+|   |       |           convheatorn.txd
+|   |       |           convheatred.txd
+|   |       |           convproblk.txd
+|   |       |           convproblu.txd
+|   |       |           convprogrn.txd
+|   |       |           cornrows.txd
+|   |       |           cornrowsb.txd
+|   |       |           country.txd
+|   |       |           countrytr.txd
+|   |       |           cowboy.txd
+|   |       |           cowboyboot.txd
+|   |       |           cowboyboot2.txd
+|   |       |           croupier.txd
+|   |       |           cutoffchinos.txd
+|   |       |           cutoffchinosblue.txd
+|   |       |           cutoffdenims.txd
+|   |       |           denimfade.txd
+|   |       |           denimsgang.txd
+|   |       |           denimsred.txd
+|   |       |           dogtag.txd
+|   |       |           dustmask.txd
+|   |       |           elvishair.txd
+|   |       |           eyepatch.txd
+|   |       |           feet.txd
+|   |       |           fez.txd
+|   |       |           field.txd
+|   |       |           flattop.txd
+|   |       |           flipflop.txd
+|   |       |           foot.txd
+|   |       |           garageleg.txd
+|   |       |           garagetop.txd
+|   |       |           gimp.txd
+|   |       |           gimpleg.txd
+|   |       |           gimpmask.txd
+|   |       |           gimpshoe.txd
+|   |       |           glasses01.txd
+|   |       |           glasses01dark.txd
+|   |       |           glasses03.txd
+|   |       |           glasses03blue.txd
+|   |       |           glasses03dark.txd
+|   |       |           glasses03red.txd
+|   |       |           glasses04.txd
+|   |       |           glasses04dark.txd
+|   |       |           glasses05.txd
+|   |       |           glasses05dark.txd
+|   |       |           glassesx.txd
+|   |       |           goatee.txd
+|   |       |           groovecut.txd
+|   |       |           groucho.txd
+|   |       |           hairblond.txd
+|   |       |           hairblue.txd
+|   |       |           hairgreen.txd
+|   |       |           hairpink.txd
+|   |       |           hairred.txd
+|   |       |           hands.txd
+|   |       |           hatmancblk.txd
+|   |       |           hatmancplaid.txd
+|   |       |           hattiger.txd
+|   |       |           hawaiired.txd
+|   |       |           hawaiiwht.txd
+|   |       |           head.txd
+|   |       |           helmet.txd
+|   |       |           highafro.txd
+|   |       |           highfade.txd
+|   |       |           hitop.txd
+|   |       |           hockey.txd
+|   |       |           hockeytop.txd
+|   |       |           hoodjackbeige.txd
+|   |       |           hoodyabase5.txd
+|   |       |           hoodyablack.txd
+|   |       |           hoodyablue.txd
+|   |       |           hoodyagreen.txd
+|   |       |           hoodyamerc.txd
+|   |       |           hoodyarockstar.txd
+|   |       |           hoodyb.txd
+|   |       |           jeansdenim.txd
+|   |       |           jhericurl.txd
+|   |       |           leather.txd
+|   |       |           leathertr.txd
+|   |       |           leathertrchaps.txd
+|   |       |           legs.txd
+|   |       |           legsblack.txd
+|   |       |           legsboxerswht.txd
+|   |       |           legsheart.txd
+|   |       |           legspantsgrey.txd
+|   |       |           letter.txd
+|   |       |           medic.txd
+|   |       |           medictr.txd
+|   |       |           mohawk.txd
+|   |       |           mohawkbeard.txd
+|   |       |           mohawkblond.txd
+|   |       |           mohawkpink.txd
+|   |       |           moto.txd
+|   |       |           neckafrica.txd
+|   |       |           neckcross.txd
+|   |       |           neckdollar.txd
+|   |       |           neckgold.txd
+|   |       |           neckhash.txd
+|   |       |           neckls.txd
+|   |       |           neckropeg.txd
+|   |       |           neckropes.txd
+|   |       |           necksaints.txd
+|   |       |           necksilver.txd
+|   |       |           painter.txd
+|   |       |           pimp.txd
+|   |       |           pimpshoe.txd
+|   |       |           pimptr.txd
+|   |       |           player_face.txd
+|   |       |           player_feet.txd
+|   |       |           player_legs.txd
+|   |       |           player_torso.txd
+|   |       |           policeshirt.txd
+|   |       |           policetr.txd
+|   |       |           sandal.txd
+|   |       |           sandalsock.txd
+|   |       |           shadesblk.txd
+|   |       |           shellsuit.txd
+|   |       |           shellsuittr.txd
+|   |       |           shirtablue.txd
+|   |       |           shirtagrey.txd
+|   |       |           shirtayellow.txd
+|   |       |           shirtbblue.txd
+|   |       |           shirtbcheck.txd
+|   |       |           shirtbgang.txd
+|   |       |           shirtbplaid.txd
+|   |       |           shoedressblk.txd
+|   |       |           shoedressbrn.txd
+|   |       |           shoesandal.txd
+|   |       |           shoespatz.txd
+|   |       |           shortsgang.txd
+|   |       |           shortsgrey.txd
+|   |       |           shortskhaki.txd
+|   |       |           sixtyniners.txd
+|   |       |           skullyblk.txd
+|   |       |           skullygrn.txd
+|   |       |           sleevtbrown.txd
+|   |       |           slope.txd
+|   |       |           snakeskin.txd
+|   |       |           sneakerbincblk.txd
+|   |       |           sneakerbincblu.txd
+|   |       |           sneakerbincgang.txd
+|   |       |           sneakerheatblk.txd
+|   |       |           sneakerheatgry.txd
+|   |       |           sneakerheatwht.txd
+|   |       |           sneakerproblu.txd
+|   |       |           sneakerprored.txd
+|   |       |           sneakerprowht.txd
+|   |       |           sportjack.txd
+|   |       |           stopwatch.txd
+|   |       |           suit1blk.txd
+|   |       |           suit1blue.txd
+|   |       |           suit1gang.txd
+|   |       |           suit1grey.txd
+|   |       |           suit1red.txd
+|   |       |           suit1trblk.txd
+|   |       |           suit1trblk2.txd
+|   |       |           suit1trblue.txd
+|   |       |           suit1trgang.txd
+|   |       |           suit1trgreen.txd
+|   |       |           suit1trgrey.txd
+|   |       |           suit1trred.txd
+|   |       |           suit1tryellow.txd
+|   |       |           suit1yellow.txd
+|   |       |           suit2grn.txd
+|   |       |           sweatrstar.txd
+|   |       |           tash.txd
+|   |       |           timberfawn.txd
+|   |       |           timbergrey.txd
+|   |       |           timberhike.txd
+|   |       |           timberred.txd
+|   |       |           torso.txd
+|   |       |           tracktr.txd
+|   |       |           tracktrblue.txd
+|   |       |           tracktrblustr.txd
+|   |       |           tracktreris.txd
+|   |       |           tracktrgang.txd
+|   |       |           tracktrpro.txd
+|   |       |           tracktrwhstr.txd
+|   |       |           trackytop1pro.txd
+|   |       |           trackytop2eris.txd
+|   |       |           tramline.txd
+|   |       |           trilbydrk.txd
+|   |       |           trilbylght.txd
+|   |       |           tshirt.txd
+|   |       |           tshirt2.txd
+|   |       |           tshirt2horiz.txd
+|   |       |           tshirtbase5.txd
+|   |       |           tshirtblunts.txd
+|   |       |           tshirtbobomonk.txd
+|   |       |           tshirtbobored.txd
+|   |       |           tshirterisorn.txd
+|   |       |           tshirterisyell.txd
+|   |       |           tshirtheatwht.txd
+|   |       |           tshirtilovels.txd
+|   |       |           tshirtlocgrey.txd
+|   |       |           tshirtmaddgrey.txd
+|   |       |           tshirtmaddgrn.txd
+|   |       |           tshirtmercgry.txd
+|   |       |           tshirtmercred.txd
+|   |       |           tshirtmercwht.txd
+|   |       |           tshirtproblk.txd
+|   |       |           tshirtprored.txd
+|   |       |           tshirtprowh.txd
+|   |       |           tshirtsuburb.txd
+|   |       |           tshirtwhite.txd
+|   |       |           tshirtzipcrm.txd
+|   |       |           tshirtzipgry.txd
+|   |       |           tuxedo.txd
+|   |       |           valet.txd
+|   |       |           vest.txd
+|   |       |           vestblack.txd
+|   |       |           visor.txd
+|   |       |           watchcro.txd
+|   |       |           watchcro2.txd
+|   |       |           watchgno.txd
+|   |       |           watchgno2.txd
+|   |       |           watchpink.txd
+|   |       |           watchpro.txd
+|   |       |           watchpro2.txd
+|   |       |           watchsub1.txd
+|   |       |           watchsub2.txd
+|   |       |           watchyellow.txd
+|   |       |           watchzip1.txd
+|   |       |           watchzip2.txd
+|   |       |           wcoatblue.txd
+|   |       |           wedge.txd
+|   |       |           worktrcamogrn.txd
+|   |       |           worktrcamogry.txd
+|   |       |           worktrgrey.txd
+|   |       |           worktrkhaki.txd
+|   |       |           zorro.txd
+|   |       |           
+|   |       \---Tattoos Reworked
+|   |           +---data
+|   |           |       shopping.dat
+|   |           |       
+|   |           \---models
+|   |               +---gta_int
+|   |               |       int_tatoo.txd
+|   |               |       
+|   |               +---player
+|   |               |       10ls.txd
+|   |               |       10ls2.txd
+|   |               |       10ls3.txd
+|   |               |       10ls4.txd
+|   |               |       10ls5.txd
+|   |               |       10og.txd
+|   |               |       10weed.txd
+|   |               |       11dice.txd
+|   |               |       11dice2.txd
+|   |               |       11godsgift.txd
+|   |               |       11grove.txd
+|   |               |       11grove2.txd
+|   |               |       11grove3.txd
+|   |               |       11jail.txd
+|   |               |       12angels.txd
+|   |               |       12bandit.txd
+|   |               |       12cross7.txd
+|   |               |       12dagger.txd
+|   |               |       12mayabird.txd
+|   |               |       12mayaface.txd
+|   |               |       4nation.txd
+|   |               |       4rip.txd
+|   |               |       4spider.txd
+|   |               |       4weed.txd
+|   |               |       5cross.txd
+|   |               |       5cross2.txd
+|   |               |       5cross3.txd
+|   |               |       5gun.txd
+|   |               |       6africa.txd
+|   |               |       6aztec.txd
+|   |               |       6clown.txd
+|   |               |       6crown.txd
+|   |               |       7cross.txd
+|   |               |       7cross2.txd
+|   |               |       7cross3.txd
+|   |               |       7mary.txd
+|   |               |       8gun.txd
+|   |               |       8poker.txd
+|   |               |       8sa.txd
+|   |               |       8sa2.txd
+|   |               |       8sa3.txd
+|   |               |       8santos.txd
+|   |               |       8westside.txd
+|   |               |       9bullet.txd
+|   |               |       9crown.txd
+|   |               |       9gun.txd
+|   |               |       9gun2.txd
+|   |               |       9homeboy.txd
+|   |               |       9rasta.txd
+|   |               |       
+|   |               \---txd
+|   |                       LD_TATT.txd
+|   |                       
+|   +---Improved Billiard Textures & Mini-Games
+|   |   |   k_pool.txd
+|   |   |   pool_blsx.txd
+|   |   |   
+|   |   \---txd
+|   |           LD_POOL.txd
+|   |           LD_ROUL.txd
+|   |           LD_SLOT.txd
+|   |           
+|   +---Map Textures Fix
+|   |   |   a51_alpha.txd
+|   |   |   airport2.txd
+|   |   |   airportdetail.txd
+|   |   |   arprtxxref_las.txd
+|   |   |   badlands.txd
+|   |   |   beach_las.txd
+|   |   |   beach_las2.txd
+|   |   |   beacliff_law2.txd
+|   |   |   bistro_plants.txd
+|   |   |   break_bar.txd
+|   |   |   burnsalpha.txd
+|   |   |   carlslounge.txd
+|   |   |   carlspics.txd
+|   |   |   carls_kit1.txd
+|   |   |   centralresac1.txd
+|   |   |   ce_loadbay.txd
+|   |   |   cinemart_alpha.txd
+|   |   |   cityhall_tr_lan.txd
+|   |   |   civic01_lan.txd
+|   |   |   civic02_lan.txd
+|   |   |   cj_beds.txd
+|   |   |   cj_games.txd
+|   |   |   cj_lighting.txd
+|   |   |   contachou1_lae2.txd
+|   |   |   countrys_2.col
+|   |   |   crlsbits.txd
+|   |   |   ctscene_las.txd
+|   |   |   cunte_rocks.txd
+|   |   |   cuntwjunk04.dff
+|   |   |   cw_junkyard2cs_t.txd
+|   |   |   cw_tempstuffcs_t.txd
+|   |   |   desert.txd
+|   |   |   desktop.ini
+|   |   |   desn2_minestuff.txd
+|   |   |   desn2_stud.txd
+|   |   |   des_dinerw.txd
+|   |   |   dk_midbuilds.txd
+|   |   |   eastlstr2_lae2.txd
+|   |   |   ebeach_veg.txd
+|   |   |   ext_doors_old.txd
+|   |   |   fosterflowers.txd
+|   |   |   gb_books01.txd
+|   |   |   gb_cleancrock01.txd
+|   |   |   gb_dirtycrock01.txd
+|   |   |   gb_foodwrap01.txd
+|   |   |   gb_lageneric.txd
+|   |   |   gb_magazines01.txd
+|   |   |   griffobs_las.txd
+|   |   |   gtarock_deserts.txd
+|   |   |   gtatreesh.txd
+|   |   |   gtatreeshi7.txd
+|   |   |   gtatreeshifir.txd
+|   |   |   gta_brokentrees.txd
+|   |   |   gta_deserttrees.txd
+|   |   |   gta_potplants.txd
+|   |   |   gta_potplants2.txd
+|   |   |   gta_potplantsaa.txd
+|   |   |   gta_procdesert.txd
+|   |   |   gta_procflowers.txd
+|   |   |   gta_proc_bush.txd
+|   |   |   gta_proc_grassland.txd
+|   |   |   gta_tree_bevhills.txd
+|   |   |   gta_tree_boak.txd
+|   |   |   gta_tree_oak.txd
+|   |   |   gta_tree_oldpine.txd
+|   |   |   gta_tree_palm.txd
+|   |   |   gta_tree_pine.txd
+|   |   |   gta_tree_pineprc.txd
+|   |   |   hosbibal2sfw.txd
+|   |   |   hotelbackpool_sfs.txd
+|   |   |   hub_alpha.txd
+|   |   |   icons4.txd
+|   |   |   idlewood6_tr.txd
+|   |   |   int_doors.txd
+|   |   |   junkpiles.txd
+|   |   |   kbplantssmz.txd
+|   |   |   kbplantssmz2.txd
+|   |   |   lae2coast_alpha.txd
+|   |   |   laealpha.txd
+|   |   |   lafuckar.txd
+|   |   |   lahillstr_lawn.txd
+|   |   |   lahills_wiresnshit3.txd
+|   |   |   lanblokc.txd
+|   |   |   lawalphav.txd
+|   |   |   lawest1.txd
+|   |   |   lawnbush.txd
+|   |   |   lawnest2.txd
+|   |   |   lawwhitebuilds.txd
+|   |   |   law_coffintxd.txd
+|   |   |   laxref.col
+|   |   |   la_fuckcar1.dff
+|   |   |   la_fuckcar2.dff
+|   |   |   libertyhi.txd
+|   |   |   librest.txd
+|   |   |   logcabincs_t.txd
+|   |   |   mtbtrackcs_t.txd
+|   |   |   mullho03a_lahills.txd
+|   |   |   ottos2_sfw.txd
+|   |   |   particle.txd
+|   |   |   pershingsq.txd
+|   |   |   picture_frame.txd
+|   |   |   plants_galss.txd
+|   |   |   plants_officeext.txd
+|   |   |   plants_tabletop.txd
+|   |   |   rczero_track.txd
+|   |   |   roadssfs26.DFF
+|   |   |   rodeo02_law2.txd
+|   |   |   rodeo04_law2.txd
+|   |   |   rodeo05_law2.txd
+|   |   |   rodeot01_law2.txd
+|   |   |   sawmillcs_t.txd
+|   |   |   sfeship1.txd
+|   |   |   sfxref.txd
+|   |   |   stormd_fill.txd
+|   |   |   stormd_filllas2.txd
+|   |   |   sunrise05_lawn.txd
+|   |   |   sunstrans_law2.txd
+|   |   |   sw_diner1.txd
+|   |   |   sw_logcamp.txd
+|   |   |   sw_oldshack.txd
+|   |   |   sw_pickupwreck01.dff
+|   |   |   sw_trailer02.dff
+|   |   |   sw_trailer03.dff
+|   |   |   sw_trailerjump.dff
+|   |   |   tags2_lalae.txd
+|   |   |   tags_laazteca.txd
+|   |   |   tags_lafront.txd
+|   |   |   tags_lakilo.txd
+|   |   |   tags_larifa.txd
+|   |   |   tags_larollin.txd
+|   |   |   tags_laseville.txd
+|   |   |   tags_latemple.txd
+|   |   |   tags_lavagos.txd
+|   |   |   trees2.txd
+|   |   |   triadbush_lvs.txd
+|   |   |   vegashse2.txd
+|   |   |   vegashse3.txd
+|   |   |   vegashse5.txd
+|   |   |   vegashse6.txd
+|   |   |   vegashse7.txd
+|   |   |   vegassvehse7.txd
+|   |   |   vegstadplants.txd
+|   |   |   veg_fuzzyplant.txd
+|   |   |   veg_leaves.txd
+|   |   |   veg_leavesplnt.txd
+|   |   |   vgndwntwn2.txd
+|   |   |   vgndwntwn22.txd
+|   |   |   vgndwntwn3.txd
+|   |   |   vgnglfcrse1.txd
+|   |   |   vgsbikesclint.txd
+|   |   |   vgsebushes.txd
+|   |   |   vgseflowers.txd
+|   |   |   vgsn_flowers.txd
+|   |   |   vgsn_nitree.txd
+|   |   |   vgsscollege.txd
+|   |   |   vgssland03.txd
+|   |   |   vgsswarehse01.txd
+|   |   |   vgwestretail1.txd
+|   |   |   waterfall_sfw.txd
+|   |   |   wiresetc2_las.txd
+|   |   |   wiresetc_las.txd
+|   |   |   wiresetc_las2.txd
+|   |   |   ws_jetty_sfx.txd
+|   |   |   
+|   |   +---data
+|   |   |   |   surfinfo.dat
+|   |   |   |   
+|   |   |   +---Decision
+|   |   |   |   \---Allowed
+|   |   |   |           R_Norm.ped
+|   |   |   |           R_Tough.ped
+|   |   |   |           
+|   |   |   \---maps
+|   |   |       |   occluveg.ipl
+|   |   |       |   
+|   |   |       +---country
+|   |   |       |       countn2.ide
+|   |   |       |       countn2.ipl
+|   |   |       |       countrys.ipl
+|   |   |       |       
+|   |   |       +---interior
+|   |   |       |       gen_int5.ide
+|   |   |       |       int_sf.ide
+|   |   |       |       propext.ide
+|   |   |       |       
+|   |   |       +---LA
+|   |   |       |       LAe.ide
+|   |   |       |       LAhills.ipl
+|   |   |       |       lan.ide
+|   |   |       |       lan2.ipl
+|   |   |       |       law2.ide
+|   |   |       |       LAw2.ipl
+|   |   |       |       LaWn.ipl
+|   |   |       |       
+|   |   |       +---SF
+|   |   |       |       sfe.ipl
+|   |   |       |       sfse.ide
+|   |   |       |       SFse.IPL
+|   |   |       |       sfw.ide
+|   |   |       |       
+|   |   |       \---Vegas
+|   |   |               vegase.ide
+|   |   |               vegasE.ipl
+|   |   |               vegasn.ipl
+|   |   |               vegass.ipl
+|   |   |               vegasw.ipl
+|   |   |               
+|   |   +---El Corona Shadow Fix
+|   |   |   \---gta3.img
+|   |   |           las_2.col
+|   |   |           
+|   |   +---Fixed Gradients
+|   |   |   +---data
+|   |   |   |   \---maps
+|   |   |   |       +---country
+|   |   |   |       |       countryS.ipl
+|   |   |   |       |       
+|   |   |   |       +---LA
+|   |   |   |       |       LAe.ipl
+|   |   |   |       |       LAe2.ipl
+|   |   |   |       |       LAhills.ipl
+|   |   |   |       |       LAn.ipl
+|   |   |   |       |       LAn2.ipl
+|   |   |   |       |       LAw.ipl
+|   |   |   |       |       LAw2.ipl
+|   |   |   |       |       LaWn.ipl
+|   |   |   |       |       
+|   |   |   |       +---SF
+|   |   |   |       |       SFSe.ide
+|   |   |   |       |       SFse.IPL
+|   |   |   |       |       
+|   |   |   |       \---vegas
+|   |   |   |               vegasE.ide
+|   |   |   |               vegasE.ipl
+|   |   |   |               vegasN.ipl
+|   |   |   |               vegasS.ipl
+|   |   |   |               vegasW.ipl
+|   |   |   |               
+|   |   |   +---gta3
+|   |   |   |       cj_dfext.txd
+|   |   |   |       diamond.txd
+|   |   |   |       ingame.txd
+|   |   |   |       light_fit_ext.txd
+|   |   |   |       
+|   |   |   +---gta3.img
+|   |   |   |       countn2_stream1.ipl
+|   |   |   |       countrye_stream0.ipl
+|   |   |   |       countrye_stream1.ipl
+|   |   |   |       countrye_stream10.ipl
+|   |   |   |       countrye_stream11.ipl
+|   |   |   |       countrye_stream12.ipl
+|   |   |   |       countrye_stream13.ipl
+|   |   |   |       countrye_stream2.ipl
+|   |   |   |       countrye_stream3.ipl
+|   |   |   |       countrye_stream4.ipl
+|   |   |   |       countrye_stream5.ipl
+|   |   |   |       countrye_stream6.ipl
+|   |   |   |       countrye_stream7.ipl
+|   |   |   |       countrye_stream8.ipl
+|   |   |   |       countrye_stream9.ipl
+|   |   |   |       countryw_stream4.ipl
+|   |   |   |       countryw_stream5.ipl
+|   |   |   |       countryw_stream6.ipl
+|   |   |   |       lae2_stream0.ipl
+|   |   |   |       lae2_stream1.ipl
+|   |   |   |       lae2_stream2.ipl
+|   |   |   |       lae2_stream3.ipl
+|   |   |   |       lae2_stream4.ipl
+|   |   |   |       lae2_stream5.ipl
+|   |   |   |       lae2_stream6.ipl
+|   |   |   |       lae_stream0.ipl
+|   |   |   |       lae_stream1.ipl
+|   |   |   |       lae_stream2.ipl
+|   |   |   |       lae_stream3.ipl
+|   |   |   |       lae_stream4.ipl
+|   |   |   |       lae_stream5.ipl
+|   |   |   |       lahills_stream0.ipl
+|   |   |   |       lahills_stream1.ipl
+|   |   |   |       lahills_stream4.ipl
+|   |   |   |       lan2_stream0.ipl
+|   |   |   |       lan2_stream1.ipl
+|   |   |   |       lan2_stream2.ipl
+|   |   |   |       lan2_stream3.ipl
+|   |   |   |       lan_stream0.ipl
+|   |   |   |       lan_stream1.ipl
+|   |   |   |       lan_stream2.ipl
+|   |   |   |       las2_stream1.ipl
+|   |   |   |       las_stream1.ipl
+|   |   |   |       las_stream2.ipl
+|   |   |   |       law2_stream0.ipl
+|   |   |   |       law2_stream1.ipl
+|   |   |   |       law2_stream2.ipl
+|   |   |   |       law2_stream3.ipl
+|   |   |   |       law2_stream4.ipl
+|   |   |   |       lawn_stream0.ipl
+|   |   |   |       lawn_stream1.ipl
+|   |   |   |       lawn_stream2.ipl
+|   |   |   |       lawn_stream3.ipl
+|   |   |   |       law_stream0.ipl
+|   |   |   |       law_stream1.ipl
+|   |   |   |       law_stream2.ipl
+|   |   |   |       law_stream3.ipl
+|   |   |   |       law_stream4.ipl
+|   |   |   |       law_stream5.ipl
+|   |   |   |       sfe_stream0.ipl
+|   |   |   |       sfe_stream1.ipl
+|   |   |   |       sfe_stream3.ipl
+|   |   |   |       sfse_stream1.ipl
+|   |   |   |       sfs_stream0.ipl
+|   |   |   |       sfs_stream1.ipl
+|   |   |   |       sfw_stream5.ipl
+|   |   |   |       vegase_stream3.ipl
+|   |   |   |       vegase_stream5.ipl
+|   |   |   |       vegasw_stream3.ipl
+|   |   |   |       vegasw_stream8.ipl
+|   |   |   |       vegasw_stream9.ipl
+|   |   |   |       
+|   |   |   \---gta_int
+|   |   |           blindinglite.txd
+|   |   |           chick_blind.txd
+|   |   |           cj_barb.txd
+|   |   |           pdomes_logo.txd
+|   |   |           pleas_dome.txd
+|   |   |           ryslites.txd
+|   |   |           shopping.txd
+|   |   |           sweetslites.txd
+|   |   |           
+|   |   +---gta3.img
+|   |   |       airportgnd_sfse.txd
+|   |   |       airportroads_sfse.txd
+|   |   |       airprtrunway_las.txd
+|   |   |       ap_build4e.txd
+|   |   |       barrio1_lae.txd
+|   |   |       bballvgnint.txd
+|   |   |       bdupshouse_lae.txd
+|   |   |       beafron1_law2.txd
+|   |   |       beafron2_law2.txd
+|   |   |       benches.txd
+|   |   |       bevmans01_la.txd
+|   |   |       bistro.txd
+|   |   |       boigas_sfw.txd
+|   |   |       boxybld_sfw.txd
+|   |   |       break_s_bins.txd
+|   |   |       canopy.txd
+|   |   |       casinoshops1.txd
+|   |   |       casroyale.txd
+|   |   |       cemetint_law.txd
+|   |   |       changeme.txd
+|   |   |       chicano10_lae.txd
+|   |   |       civic03_lan.txd
+|   |   |       cj_airprt.txd
+|   |   |       cj_airprt2.txd
+|   |   |       cj_dfext.txd
+|   |   |       cn_nwbrigstuff.txd
+|   |   |       coast_las2.txd
+|   |   |       countn2_stream0.ipl
+|   |   |       countn2_stream1.ipl
+|   |   |       countrye_5.col
+|   |   |       countrye_stream0.ipl
+|   |   |       countrye_stream1.ipl
+|   |   |       countrye_stream10.ipl
+|   |   |       countrye_stream11.ipl
+|   |   |       countrye_stream12.ipl
+|   |   |       countrye_stream13.ipl
+|   |   |       countrye_stream2.ipl
+|   |   |       countrye_stream3.ipl
+|   |   |       countrye_stream4.ipl
+|   |   |       countrye_stream5.ipl
+|   |   |       countrye_stream6.ipl
+|   |   |       countrye_stream7.ipl
+|   |   |       countrye_stream8.ipl
+|   |   |       countrye_stream9.ipl
+|   |   |       countryn_stream1.ipl
+|   |   |       countryn_stream3.ipl
+|   |   |       countrys_stream0.ipl
+|   |   |       countryw_6.col
+|   |   |       countryw_stream4.ipl
+|   |   |       countryw_stream6.ipl
+|   |   |       cs_roads.txd
+|   |   |       ct_ventx.txd
+|   |   |       cunteroads1.txd
+|   |   |       cunteroads2.txd
+|   |   |       cunteroads4.txd
+|   |   |       cunteroads5.txd
+|   |   |       cunteroads6.txd
+|   |   |       cunte_lik.txd
+|   |   |       cuntrock.txd
+|   |   |       cunts_gunclub.txd
+|   |   |       cuntwland.txd
+|   |   |       cuntwlandcarparks.txd
+|   |   |       cuntwlandcent.txd
+|   |   |       cuntwlandse.txd
+|   |   |       cuntwlandwest.txd
+|   |   |       cuntwroad.txd
+|   |   |       cuntwshopscs_t.txd
+|   |   |       cuntwtunnel.txd
+|   |   |       cw2_storesnstuff.txd
+|   |   |       cw_farm.txd
+|   |   |       cw_road.txd
+|   |   |       desn2_truckstop.txd
+|   |   |       des_cen.txd
+|   |   |       des_damquay.txd
+|   |   |       des_gunclub.txd
+|   |   |       des_n.txd
+|   |   |       des_ne.txd
+|   |   |       des_ntown.txd
+|   |   |       des_nw.txd
+|   |   |       des_nw2.txd
+|   |   |       des_nwtown.txd
+|   |   |       des_nwtownpolice.txd
+|   |   |       des_nwtownw.txd
+|   |   |       des_s.txd
+|   |   |       des_se1.txd
+|   |   |       des_se4.txd
+|   |   |       des_stownmain1.txd
+|   |   |       des_stownw.txd
+|   |   |       des_sw.txd
+|   |   |       des_wgarage.txd
+|   |   |       des_wtownmain.txd
+|   |   |       diamond.txd
+|   |   |       downtown_las.txd
+|   |   |       dynquarryrock.txd
+|   |   |       eastbeach4a_lae2.txd
+|   |   |       factory_sfse.txd
+|   |   |       fctrygrnd01.txd
+|   |   |       filmstud.txd
+|   |   |       fosterroads_sfse.txd
+|   |   |       freeway2_sfs.txd
+|   |   |       freeways2_sfse.txd
+|   |   |       freeway_las.txd
+|   |   |       gazlaw1.txd
+|   |   |       gazlaw2.txd
+|   |   |       gb_lageneric.txd
+|   |   |       gb_laroads.txd
+|   |   |       genroads_sfse.txd
+|   |   |       glenpark1x_lae.txd
+|   |   |       glenpark1_lae.txd
+|   |   |       glenpark6d_lae.txd
+|   |   |       glenpark6_lae.txd
+|   |   |       glenpark7_lae.txd
+|   |   |       goldengate_sfw.txd
+|   |   |       golf_sfs.txd
+|   |   |       griffobs_las.txd
+|   |   |       ground4_las.txd
+|   |   |       ground5_las.txd
+|   |   |       gta_rockcuntry.txd
+|   |   |       gym_weights.txd
+|   |   |       hashblock1_sfs.txd
+|   |   |       hillhousex13_6.txd
+|   |   |       hobos_lawn.txd
+|   |   |       hospital2.txd
+|   |   |       hospital_lae.txd
+|   |   |       hotelback_sfs.txd
+|   |   |       idlewood3_lae.txd
+|   |   |       idlewood46_lae.txd
+|   |   |       idlewood6_detail.txd
+|   |   |       immcrax.txd
+|   |   |       imy_smsx.txd
+|   |   |       ingame.txd
+|   |   |       jeffers4_lae.txd
+|   |   |       junkpiles.txd
+|   |   |       lae2roads.txd
+|   |   |       lae2roadscoast.txd
+|   |   |       lae2roadshub.txd
+|   |   |       lae2_4.col
+|   |   |       lae2_ground04.dff
+|   |   |       lae2_roads17.dff
+|   |   |       lae2_stream0.ipl
+|   |   |       lae2_stream1.ipl
+|   |   |       lae2_stream3.ipl
+|   |   |       lae2_stream4.ipl
+|   |   |       lae2_stream5.ipl
+|   |   |       laealpha.txd
+|   |   |       laeroads2s.txd
+|   |   |       lae_stream0.ipl
+|   |   |       lae_stream1.ipl
+|   |   |       lae_stream2.ipl
+|   |   |       lae_stream3.ipl
+|   |   |       lae_stream4.ipl
+|   |   |       lae_stream5.ipl
+|   |   |       lahillshilhs1b.txd
+|   |   |       lahillshilhs1c.txd
+|   |   |       lahillshilhs1d.txd
+|   |   |       lahillshilhs1x.txd
+|   |   |       lahillshilhs1z.txd
+|   |   |       lahillshilhse.txd
+|   |   |       lahillslaroads.txd
+|   |   |       lahillsla_roads.txd
+|   |   |       lahillsroadscoast.txd
+|   |   |       lahillstxd1a.txd
+|   |   |       lahills_stream0.ipl
+|   |   |       lahills_stream3.ipl
+|   |   |       lan2_stream1.ipl
+|   |   |       lan2_stream3.ipl
+|   |   |       lanblokg.txd
+|   |   |       lanbloki.txd
+|   |   |       landhub.txd
+|   |   |       landlae2.txd
+|   |   |       landlae2c.txd
+|   |   |       landlae2e.txd
+|   |   |       lanriver.txd
+|   |   |       lanroad.txd
+|   |   |       lan_stream2.ipl
+|   |   |       las2jmscum12.dff
+|   |   |       las2_stream0.ipl
+|   |   |       las2_stream1.ipl
+|   |   |       lasground_las2.txd
+|   |   |       lasroads_las2.txd
+|   |   |       las_stream1.ipl
+|   |   |       las_stream2.ipl
+|   |   |       law2_roadsb.txd
+|   |   |       law2_stream0.ipl
+|   |   |       law2_stream1.ipl
+|   |   |       law2_stream2.ipl
+|   |   |       law2_stream4.ipl
+|   |   |       lawnapartxref.txd
+|   |   |       lawnbit.txd
+|   |   |       lawngrn.txd
+|   |   |       lawngrnd.txd
+|   |   |       lawnshite2n.txd
+|   |   |       lawn_stream0.ipl
+|   |   |       lawn_stream2.ipl
+|   |   |       lawn_stream3.ipl
+|   |   |       law_beach1.txd
+|   |   |       law_beach2.txd
+|   |   |       law_stream0.ipl
+|   |   |       law_stream1.ipl
+|   |   |       law_stream2.ipl
+|   |   |       law_stream3.ipl
+|   |   |       law_stream4.ipl
+|   |   |       law_stream5.ipl
+|   |   |       libertyhi.txd
+|   |   |       light_fit_ext.txd
+|   |   |       mainlcawn.txd
+|   |   |       mall_law.txd
+|   |   |       melrose07_lawn.txd
+|   |   |       motel_lae.txd
+|   |   |       mountainsfs.txd
+|   |   |       mountroads_sfse.txd
+|   |   |       mullho03a_lahills.txd
+|   |   |       mullho03_lahills.txd
+|   |   |       nitewin_las.txd
+|   |   |       paynspray_lae.txd
+|   |   |       pierc_law2.txd
+|   |   |       pinkcarpark_sfs.txd
+|   |   |       portakabin.txd
+|   |   |       privatesign.txd
+|   |   |       prop_pizzabox.txd
+|   |   |       railtunn1_law2.txd
+|   |   |       railwaycuntw.txd
+|   |   |       rczero_track.txd
+|   |   |       rc_warhoose.txd
+|   |   |       richman02_lahills.txd
+|   |   |       road2sfe.txd
+|   |   |       roadlan2.txd
+|   |   |       roadsanfranse.txd
+|   |   |       roadsfe.txd
+|   |   |       roads_law.txd
+|   |   |       roads_lawn.txd
+|   |   |       roads_sfs.txd
+|   |   |       rockdetail.txd
+|   |   |       rodeo04_law2.txd
+|   |   |       rodeo05_law2.txd
+|   |   |       sancliff02_law2.txd
+|   |   |       sanfranfreeway.txd
+|   |   |       sanfranroads.txd
+|   |   |       sanfrantrains.txd
+|   |   |       sanfranvictorian.txd
+|   |   |       santamonicalaw2.txd
+|   |   |       seabed.txd
+|   |   |       seabed1.col
+|   |   |       seabed10.col
+|   |   |       seabed11.col
+|   |   |       seabed12.col
+|   |   |       seabed2.col
+|   |   |       seabed3.col
+|   |   |       seabed4.col
+|   |   |       seabed5.col
+|   |   |       seabed6.col
+|   |   |       seabed7.col
+|   |   |       seabed8.col
+|   |   |       seabed9.col
+|   |   |       sfe_stream1.ipl
+|   |   |       sfe_stream2.ipl
+|   |   |       sfe_stream3.ipl
+|   |   |       sfn_sfn.txd
+|   |   |       sfn_stream1.ipl
+|   |   |       sfse_12.col
+|   |   |       sfse_hublockup.DFF
+|   |   |       sfse_stream0.ipl
+|   |   |       sfse_stream1.ipl
+|   |   |       sfse_stream3.ipl
+|   |   |       sfse_stream5.ipl
+|   |   |       sfs_stream0.ipl
+|   |   |       sfs_stream1.ipl
+|   |   |       sfs_stream2.ipl
+|   |   |       sfw_stream0.ipl
+|   |   |       sfw_stream1.ipl
+|   |   |       sfw_stream5.ipl
+|   |   |       sfw_victemp2.txd
+|   |   |       sf_roads.txd
+|   |   |       shamcpark.txd
+|   |   |       shoppie1_sfs.dff
+|   |   |       shutters_lawn.txd
+|   |   |       silconland_sfse.txd
+|   |   |       stadtplaza_lae2.txd
+|   |   |       stapl.txd
+|   |   |       stationtunnel.txd
+|   |   |       stormdrain.txd
+|   |   |       stormdraix.txd
+|   |   |       stripshop1.txd
+|   |   |       subpen2_sfse.txd
+|   |   |       sunrise01_lawn.txd
+|   |   |       sunrise11_lawn.txd
+|   |   |       sunset01_lawn.txd
+|   |   |       sunsetbittyu.txd
+|   |   |       sunstr_lawn.txd
+|   |   |       sv_ground_sfs.txd
+|   |   |       sw_apartments.txd
+|   |   |       sw_fact01.txd
+|   |   |       temproadtxd.txd
+|   |   |       tempstuff_lae.txd
+|   |   |       tramstatsfw.txd
+|   |   |       trnstnground.txd
+|   |   |       underwater.txd
+|   |   |       vegascourtbld.txd
+|   |   |       vegasdwntwn1.txd
+|   |   |       vegase_stream3.ipl
+|   |   |       vegase_stream5.ipl
+|   |   |       vegashiways.txd
+|   |   |       vegashse2.txd
+|   |   |       vegashse3.txd
+|   |   |       vegashse4.txd
+|   |   |       vegashse5.txd
+|   |   |       vegashse6.txd
+|   |   |       vegashse7.txd
+|   |   |       vegashse8.txd
+|   |   |       vegasnbuild1.txd
+|   |   |       vegasn_stream3.ipl
+|   |   |       vegasn_stream6.ipl
+|   |   |       vegasroads.txd
+|   |   |       vegasshangar.txd
+|   |   |       vegass_jetty.txd
+|   |   |       vegass_stream0.ipl
+|   |   |       vegass_stream1.ipl
+|   |   |       vegass_stream5.ipl
+|   |   |       vegastemp1.txd
+|   |   |       vegasw_stream6.ipl
+|   |   |       vegasw_stream7.ipl
+|   |   |       vegasw_stream9.ipl
+|   |   |       vegenmotel.txd
+|   |   |       vgeamun.txd
+|   |   |       vgeretail1.txd
+|   |   |       vgesvhouse01.txd
+|   |   |       vgnamun.txd
+|   |   |       vgnbballsign2.txd
+|   |   |       vgnboiga1.txd
+|   |   |       vgndwntwn1.txd
+|   |   |       vgndwntwn21.txd
+|   |   |       vgndwntwn22.txd
+|   |   |       vgndwntwn23.txd
+|   |   |       vgndwntwn5.txd
+|   |   |       vgnfremnt1.txd
+|   |   |       vgnfremnt2.txd
+|   |   |       vgnground.txd
+|   |   |       vgnground2.txd
+|   |   |       vgnhseblk1.txd
+|   |   |       vgnhseing1.txd
+|   |   |       vgnhseland.txd
+|   |   |       vgnlowwall.txd
+|   |   |       vgnmall.txd
+|   |   |       vgnoutown2.txd
+|   |   |       vgnptrlpmp.txd
+|   |   |       vgnretail2.txd
+|   |   |       vgnretail4.txd
+|   |   |       vgnretail5.txd
+|   |   |       vgnretail6.txd
+|   |   |       vgnretail7.txd
+|   |   |       vgnshopnmall.txd
+|   |   |       vgntrainstat.txd
+|   |   |       vgnxrefhse1.txd
+|   |   |       vgsebuild01.txd
+|   |   |       vgsebuild02.txd
+|   |   |       vgsehighways.txd
+|   |   |       vgsehseing1.txd
+|   |   |       vgseroads.txd
+|   |   |       vgsetrainstn.txd
+|   |   |       vgsewrehse.txd
+|   |   |       vgslowbuild.txd
+|   |   |       vgsnbuild07.txd
+|   |   |       vgsn_polnb.txd
+|   |   |       vgsn_polnb01.dff
+|   |   |       vgssairport.txd
+|   |   |       vgssdrtyroads.txd
+|   |   |       vgsshiways.txd
+|   |   |       vgssland02.txd
+|   |   |       vgssland03.txd
+|   |   |       vgssroads.txd
+|   |   |       vgsswarehse02.txd
+|   |   |       vgsswarehse02b.txd
+|   |   |       vgsswarehse02c.txd
+|   |   |       vgsswrehse03.txd
+|   |   |       vgwestboiga1.txd
+|   |   |       vgwestground.txd
+|   |   |       vgwsavehses.txd
+|   |   |       vgwstdirtyrd.txd
+|   |   |       vinewood01_lahills.txd
+|   |   |       weemap.txd
+|   |   |       wshxrefhse.txd
+|   |   |       w_town2cs_t.txd
+|   |   |       w_town3cs_t.txd
+|   |   |       
+|   |   +---gta3.img (LODs)
+|   |   |       lahillsa_lod.txd
+|   |   |       lod2_sfe.txd
+|   |   |       lod3_sfe.txd
+|   |   |       lod4sfw.txd
+|   |   |       lod4_sfe.txd
+|   |   |       lod5sfw.txd
+|   |   |       lod6sfw.txd
+|   |   |       lod6_sfe.txd
+|   |   |       lod7sfw.txd
+|   |   |       lod7_sfe.txd
+|   |   |       lod8sfw.txd
+|   |   |       lod9sfw.txd
+|   |   |       LODcunty.txd
+|   |   |       lodsfn.txd
+|   |   |       lodtnsfn.txd
+|   |   |       lod_mount_sfs.txd
+|   |   |       lod_sfe.txd
+|   |   |       lod_sfs1.txd
+|   |   |       lod_sfs2.txd
+|   |   |       lod_sfs3.txd
+|   |   |       lod_sfs4.txd
+|   |   |       lod_sfs6.txd
+|   |   |       lod_sfse.txd
+|   |   |       lod_sfse2.txd
+|   |   |       lod_sfse3.txd
+|   |   |       lod_sfse69.txd
+|   |   |       
+|   |   +---gta3.img dff
+|   |   |   |   beach01_law2.dff
+|   |   |   |   cehollyhil01.dff
+|   |   |   |   ce_grndpalcst04.dff
+|   |   |   |   ce_grndpalcst05.dff
+|   |   |   |   ce_roadscoast08.dff
+|   |   |   |   chinagate.dff
+|   |   |   |   countrye_1.col
+|   |   |   |   cw_trucklines.dff
+|   |   |   |   grnd_alpha2.dff
+|   |   |   |   k_pooltablesm.dff
+|   |   |   |   lae2_ground01.dff
+|   |   |   |   lae2_roads12.dff
+|   |   |   |   lae2_roads79.dff
+|   |   |   |   lae2_roads80.dff
+|   |   |   |   laejeffers03.dff
+|   |   |   |   lahills_1.col
+|   |   |   |   landshit_24_sfe.dff
+|   |   |   |   lan_1.col
+|   |   |   |   las_2.col
+|   |   |   |   road08_sfe.dff
+|   |   |   |   road44_sfe.dff
+|   |   |   |   road45_sfe.dff
+|   |   |   |   roadssfse33.dff
+|   |   |   |   roadssfse62.dff
+|   |   |   |   sbce_grndpalcst05.dff
+|   |   |   |   sfe_8.col
+|   |   |   |   sfe_9.col
+|   |   |   |   sfse_11.col
+|   |   |   |   sfse_12.col
+|   |   |   |   snpedshprk_las2.dff
+|   |   |   |   stadium02_lvs.dff
+|   |   |   |   stadium_lvs.dff
+|   |   |   |   sv_roadscoast01.dff
+|   |   |   |   tcemulhilhed1_law2.dff
+|   |   |   |   vegase_4.col
+|   |   |   |   vegasn_1.col
+|   |   |   |   vegasn_2.col
+|   |   |   |   vegasn_3.col
+|   |   |   |   vegasn_5.col
+|   |   |   |   vegasw_1.col
+|   |   |   |   vegasw_2.col
+|   |   |   |   vegasw_5.col
+|   |   |   |   vegasw_6.col
+|   |   |   |   vegasw_7.col
+|   |   |   |   vegasw_8.col
+|   |   |   |   vegaxref.col
+|   |   |   |   
+|   |   |   +---data
+|   |   |   |   \---maps
+|   |   |   |       \---LA
+|   |   |   |               LAe.ide
+|   |   |   |               
+|   |   |   \---models
+|   |   |       +---gta3.img
+|   |   |       |       barrier.txd
+|   |   |       |       blokmod2_sfw01.DFF
+|   |   |       |       drivingsch_SFS.DFF
+|   |   |       |       fosterflowers02.DFF
+|   |   |       |       fosterflowers1.DFF
+|   |   |       |       hillclif06.dff
+|   |   |       |       land_37_sfw.DFF
+|   |   |       |       land_42_sfw.DFF
+|   |   |       |       las2_stream1.ipl
+|   |   |       |       lasgrifroad.DFF
+|   |   |       |       las_1.col
+|   |   |       |       las_2.col
+|   |   |       |       las_3.col
+|   |   |       |       lod_cs_landbit_23.DFF
+|   |   |       |       roadsSFSE58.DFF
+|   |   |       |       road_lawn29.DFF
+|   |   |       |       road_SFW39.DFF
+|   |   |       |       sfs_stream2.ipl
+|   |   |       |       sfw_1.col
+|   |   |       |       snpedteew2_las2.DFF
+|   |   |       |       VegasSland36.DFF
+|   |   |       |       VegasSroad0522a.DFF
+|   |   |       |       vegass_2.col
+|   |   |       |       vendmach.DFF
+|   |   |       |       vendmachfd.DFF
+|   |   |       |       vgsEland03_lvs.DFF
+|   |   |       |       vgsSspagjun08.DFF
+|   |   |       |       xoverlaymap09.DFF
+|   |   |       |       
+|   |   |       \---gta_int.img
+|   |   |               props.col
+|   |   |               
+|   |   +---gta3.lmg
+|   |   |       airport2.txd
+|   |   |       airportdetail.txd
+|   |   |       arprtxxref_las.txd
+|   |   |       badlands.txd
+|   |   |       beach_las.txd
+|   |   |       beach_las2.txd
+|   |   |       beacliff_law2.txd
+|   |   |       burnsalpha.txd
+|   |   |       cinemart_alpha.txd
+|   |   |       cityhall_tr_lan.txd
+|   |   |       civic01_lan.txd
+|   |   |       civic02_lan.txd
+|   |   |       ctscene_las.txd
+|   |   |       eastlstr2_lae2.txd
+|   |   |       fosterflowers.txd
+|   |   |       griffobs_las.txd
+|   |   |       gtarock_deserts.txd
+|   |   |       gtatreesh.txd
+|   |   |       gtatreesh04.txd
+|   |   |       gtatreeshi.txd
+|   |   |       gtatreeshi7.txd
+|   |   |       gtatreeshi9.txd
+|   |   |       gtatreeshifir.txd
+|   |   |       gta_brokentrees.txd
+|   |   |       gta_cactus.txd
+|   |   |       gta_deserttrees.txd
+|   |   |       gta_potplants.txd
+|   |   |       gta_potplants2.txd
+|   |   |       gta_potplantsaa.txd
+|   |   |       gta_potplantsx.txd
+|   |   |       gta_procdesert.txd
+|   |   |       gta_procflowers.txd
+|   |   |       gta_proc_bigbush.txd
+|   |   |       gta_proc_bush.txd
+|   |   |       gta_proc_bushland.txd
+|   |   |       gta_proc_ferns.txd
+|   |   |       gta_proc_grassland.txd
+|   |   |       gta_proc_grasslanda.txd
+|   |   |       gta_proc_rushes.txd
+|   |   |       gta_rockcuntry.txd
+|   |   |       gta_tree_bevhills.txd
+|   |   |       gta_tree_boak.txd
+|   |   |       gta_tree_oldpine.txd
+|   |   |       gta_tree_palm.txd
+|   |   |       gta_tree_pine.txd
+|   |   |       gta_tree_pineprc.txd
+|   |   |       hub_alpha.txd
+|   |   |       idlewood6_tr.txd
+|   |   |       junkpiles.txd
+|   |   |       kbplantssmz.txd
+|   |   |       lae2coast_alpha.txd
+|   |   |       laealpha.txd
+|   |   |       lanblokc.txd
+|   |   |       lawalphav.txd
+|   |   |       lawnbush.txd
+|   |   |       rodeo04_law2.txd
+|   |   |       stormd_fill.txd
+|   |   |       stormd_filllas2.txd
+|   |   |       sunrise05_lawn.txd
+|   |   |       sunstrans_law2.txd
+|   |   |       tree1.txd
+|   |   |       tree1prc.txd
+|   |   |       tree2.txd
+|   |   |       tree2prc.txd
+|   |   |       tree3.txd
+|   |   |       tree3prc.txd
+|   |   |       underwater.txd
+|   |   |       vegashse5.txd
+|   |   |       vegashse6.txd
+|   |   |       vegashse7.txd
+|   |   |       vegassvehse7.txd
+|   |   |       vegtresshi9b.txd
+|   |   |       veg_fuzzyplant.txd
+|   |   |       veg_leaves.txd
+|   |   |       veg_leavesplnt.txd
+|   |   |       vgnglfcrse1.txd
+|   |   |       vgsn_nitree.txd
+|   |   |       vgsscollege.txd
+|   |   |       vgssland03.txd
+|   |   |       vgsswarehse01.txd
+|   |   |       wiresetc2_las.txd
+|   |   |       wiresetc_las.txd
+|   |   |       wiresetc_las2.txd
+|   |   |       
+|   |   +---gta_int dff
+|   |   |   |   carlsbits.dff
+|   |   |   |   int_la_2.col
+|   |   |   |   int_la_stream1.ipl
+|   |   |   |   pleasure-top.dff
+|   |   |   |   
+|   |   |   \---data
+|   |   |       \---maps
+|   |   |           \---interior
+|   |   |                   int_LA.IPL
+|   |   |                   
+|   |   +---gta_int.img
+|   |   |       blindinglite.txd
+|   |   |       carlsbits.dff
+|   |   |       changeme.txd
+|   |   |       chick_blind.txd
+|   |   |       cj_ammo_posters.txd
+|   |   |       cj_barb.txd
+|   |   |       cj_commercial.txd
+|   |   |       genintint_gym.txd
+|   |   |       gen_int4_stream0.ipl
+|   |   |       gf4.txd
+|   |   |       int_kbsgarage3 - Copia.txd
+|   |   |       int_kbsgarage3.txd
+|   |   |       int_la_2.col
+|   |   |       int_la_stream1.ipl
+|   |   |       lamidsaveshad.txd
+|   |   |       pdomes_logo.txd
+|   |   |       pleas_dome.txd
+|   |   |       props.col
+|   |   |       ryslites.txd
+|   |   |       shopping.txd
+|   |   |       sweetslites.txd
+|   |   |       
+|   |   +---law2
+|   |   |   |   bealantr01_law01.dff
+|   |   |   |   bealantr02_law2.dff
+|   |   |   |   bealantr03_law2.dff
+|   |   |   |   rodeo01_law2.dff
+|   |   |   |   rodeo02_law2.dff
+|   |   |   |   rodeo06tr_law2.dff
+|   |   |   |   rodeo06_law2.dff
+|   |   |   |   sanclifbal1_lax.dff
+|   |   |   |   sanclifft02_law2.dff
+|   |   |   |   sanclifft05_law2.dff
+|   |   |   |   sanclift01_law2.dff
+|   |   |   |   venice03tr_law2.dff
+|   |   |   |   venice04tr_law2.dff
+|   |   |   |   
+|   |   |   \---col
+|   |   |           law2_1.col
+|   |   |           
+|   |   +---movies
+|   |   |       GTAtitles.mpg
+|   |   |       Logo.mpg
+|   |   |       
+|   |   +---PS2 SF Roads HQ
+|   |   |   \---gta3.img
+|   |   |           airportroads_sfse.txd
+|   |   |           backroad_sfs.txd
+|   |   |           bendytunnel_sfse.txd
+|   |   |           carparkssfn.txd
+|   |   |           carshow_sfse.txd
+|   |   |           dockroad_sfse.txd
+|   |   |           fosterroads_sfse.txd
+|   |   |           genroads_sfse.txd
+|   |   |           ggbridge_sfn.txd
+|   |   |           goldengate_sfw.txd
+|   |   |           highway_sfn.txd
+|   |   |           navyroad_sfse.txd
+|   |   |           road2sfe.txd
+|   |   |           roadsanfranse.txd
+|   |   |           roadsfe.txd
+|   |   |           sfn_roadssfn.txd
+|   |   |           sfsroads.txd
+|   |   |           stadjunct_sfse.txd
+|   |   |           tunnel_sfe.txd
+|   |   |           
+|   |   +---Shadows
+|   |   |       cranes_dyn2.col
+|   |   |       dynamic.col
+|   |   |       dynamic2.col
+|   |   |       lan2_1.col
+|   |   |       lan2_2.col
+|   |   |       lan2_3.col
+|   |   |       lanlod.txd
+|   |   |       LOD4plaz2_LAn.dff
+|   |   |       LODamublkson1_LAn.dff
+|   |   |       LODFreeway11_LAn2.dff
+|   |   |       LODFreeway2_LAn2.dff
+|   |   |       LODFreeway3_LAn2.dff
+|   |   |       LODFreeway4_LAn2.dff
+|   |   |       LODFreeway5_LAn2.dff
+|   |   |       LODFreeway6_LAn2.dff
+|   |   |       LODFreeway7_LAn.dff
+|   |   |       LODFreeway8_LAn2.dff
+|   |   |       LODFreeway9_LAn2.dff
+|   |   |       LODGSFreeway2_LAn01.dff
+|   |   |       LODGSFreeway3_LAn.dff
+|   |   |       LODGSFreeway4_LAn.dff
+|   |   |       LODGSFreeway5_LAn.dff
+|   |   |       LODGSFreeway6_LAn.dff
+|   |   |       LODGSFreeway7_LAn.dff
+|   |   |       LODGSFreeway8_LAn.dff
+|   |   |       lodhuge_lan2.txd
+|   |   |       LODkyscrap1_LAn.dff
+|   |   |       LODkyscrap2_LAn.dff
+|   |   |       LODkyscrap4_LAn.dff
+|   |   |       LODLAdtbuild6_LAn2.dff
+|   |   |       LODLAn2_gm1.dff
+|   |   |       LODlenbuilds08.dff
+|   |   |       LODlenbuilds09.dff
+|   |   |       LODrTow1_LAn.dff
+|   |   |       LODskyscr203_gls.dff
+|   |   |       LODskyscrapn201.dff
+|   |   |       LODskyscrapn202.dff
+|   |   |       LODskyscrapn203.dff
+|   |   |       LODstolenbuilds05.dff
+|   |   |       LODtowerlan.dff
+|   |   |       lod_lan2.txd
+|   |   |       
+|   |   +---Toreno Ranch Shadow Fix
+|   |   |   \---gta3.img
+|   |   |           countryn_stream1.ipl
+|   |   |           
+|   |   \---txd
+|   |           ld_grav.txd
+|   |           LD_NONE.txd
+|   |           LD_POOL.txd
+|   |           LD_ROUL.txd
+|   |           ld_shtr.txd
+|   |           LD_SLOT.txd
+|   |           LD_SPAC.txd
+|   |           
+|   +---Mobile Features
+|   |   \---models
+|   |       |   effectsPC.txd
+|   |       |   particle.txd
+|   |       |   
+|   |       +---cutscene.img
+|   |       |       cs9mm.dff
+|   |       |       cs9mm.txd
+|   |       |       csbat.dff
+|   |       |       csbat.txd
+|   |       |       cscamera.dff
+|   |       |       cscamera.txd
+|   |       |       cscolt45.txd
+|   |       |       csdeserteagle.txd
+|   |       |       csflame.txd
+|   |       |       csgolfclub.dff
+|   |       |       csgolfclub.txd
+|   |       |       csjetpack.txd
+|   |       |       csm16.dff
+|   |       |       csm16.txd
+|   |       |       cssilenced.txd
+|   |       |       cssmg.txd
+|   |       |       csspray.txd
+|   |       |       
+|   |       +---generic
+|   |       |       vehicle.txd
+|   |       |       
+|   |       +---grass
+|   |       |       plant1.txd
+|   |       |       
+|   |       \---gta3.img
+|   |               a51_alpha.txd
+|   |               a51_detailstuff.txd
+|   |               a51_ext.txd
+|   |               a51_undergrnd.txd
+|   |               acpipes1_sfs.dff
+|   |               acpipes2_sfs.dff
+|   |               acwinch1b_sfs.dff
+|   |               acwinch1b_sfs01.dff
+|   |               airport2.txd
+|   |               airportdetail.txd
+|   |               ak47.dff
+|   |               ak47.txd
+|   |               aprtree01_lvs.dff
+|   |               armour.dff
+|   |               armour.txd
+|   |               arprtxxref_las.txd
+|   |               arptpillar01_lvs.dff
+|   |               badlands.txd
+|   |               ballyswater.txd
+|   |               barrio1_lae2.txd
+|   |               basejump_target.dff
+|   |               bat.dff
+|   |               bat.txd
+|   |               beach_las.txd
+|   |               beach_las2.txd
+|   |               beacliff_law2.txd
+|   |               bistro_plants.txd
+|   |               blackwestran1_lae2.txd
+|   |               boatoffice_sfn.dff
+|   |               bodyarmour.dff
+|   |               bomb.dff
+|   |               bomb.txd
+|   |               brassknuckle.dff
+|   |               brassknuckle.txd
+|   |               burnsalpha.txd
+|   |               camera.dff
+|   |               camera.txd
+|   |               casroyale01_lvs.dff
+|   |               casroyale02_lvs.dff
+|   |               casroyale03_lvs.dff
+|   |               casroyale04_lvs.dff
+|   |               cellphone.dff
+|   |               cellphone.txd
+|   |               centralresac1.txd
+|   |               cephotoblockcs_t.txd
+|   |               chnsaw.dff
+|   |               chnsaw.txd
+|   |               chromegun.dff
+|   |               chromegun.txd
+|   |               cinemart_alpha.txd
+|   |               circusconstruct03.dff
+|   |               cityhall_tr_lan.txd
+|   |               civic01_lan.txd
+|   |               civic02_lan.txd
+|   |               civic04_lan.txd
+|   |               cj_ind_light.dff
+|   |               colt45.dff
+|   |               colt45.txd
+|   |               countryclbgnd_sfs.txd
+|   |               countryclbtnis_sfs.txd
+|   |               ctscene_las.txd
+|   |               cunte_rocks.txd
+|   |               cunte_town1.txd
+|   |               cuntgun.dff
+|   |               cuntgun.txd
+|   |               cuntwtunnel.txd
+|   |               cw2_photoblockcs_t.txd
+|   |               cw_tempstuffcs_t.txd
+|   |               cxref_savhus.txd
+|   |               cylinder.dff
+|   |               desert.txd
+|   |               desert_eagle.dff
+|   |               desert_eagle.txd
+|   |               desn2_minestuff.txd
+|   |               desn2_stud.txd
+|   |               desn_teepee.txd
+|   |               des_dinerw.txd
+|   |               des_quarry.txd
+|   |               des_quarrybits.txd
+|   |               des_refinery.txd
+|   |               des_telescopestuff.txd
+|   |               des_trees.txd
+|   |               des_wtownmain.txd
+|   |               diamond_3.dff
+|   |               eastlstr2_lae2.txd
+|   |               ebeach_veg.txd
+|   |               exclbrsign01_lvs.dff
+|   |               factryfence.txd
+|   |               filmrllprop01_lvs.dff
+|   |               fire_ex.dff
+|   |               fire_ex.txd
+|   |               flame.dff
+|   |               flame.txd
+|   |               flamingo01_lvs.dff
+|   |               flamingo04_lvs.dff
+|   |               flamingo05_lvs.dff
+|   |               flare.dff
+|   |               flare.txd
+|   |               flowera.dff
+|   |               flowera.txd
+|   |               flowerb.dff
+|   |               flowerb.txd
+|   |               fosterflowers.txd
+|   |               gb_lageneric.txd
+|   |               genintint_gym.txd
+|   |               golfclub.dff
+|   |               golfclub.txd
+|   |               grenade.dff
+|   |               grenade.txd
+|   |               griffobs_las.txd
+|   |               gtarock_deserts.txd
+|   |               gtatreesh.txd
+|   |               gtatreesh04.txd
+|   |               gtatreeshi.txd
+|   |               gtatreeshi7.txd
+|   |               gtatreeshi9.txd
+|   |               gtatreeshifir.txd
+|   |               gta_brokentrees.txd
+|   |               gta_cactus.txd
+|   |               gta_deserttrees.txd
+|   |               gta_potplants.txd
+|   |               gta_potplants2.txd
+|   |               gta_potplantsaa.txd
+|   |               gta_potplantsx.txd
+|   |               gta_procdesert.txd
+|   |               gta_procflowers.txd
+|   |               gta_proc_bigbush.txd
+|   |               gta_proc_bush.txd
+|   |               gta_proc_bushland.txd
+|   |               gta_proc_ferns.txd
+|   |               gta_proc_grassland.txd
+|   |               gta_proc_grasslanda.txd
+|   |               gta_proc_rushes.txd
+|   |               gta_rockcuntry.txd
+|   |               gta_tree_bevhills.txd
+|   |               gta_tree_boak.txd
+|   |               gta_tree_oak.txd
+|   |               gta_tree_oldpine.txd
+|   |               gta_tree_palm.txd
+|   |               gta_tree_pine.txd
+|   |               gta_tree_pineprc.txd
+|   |               gun_cane.dff
+|   |               gun_cane.txd
+|   |               gun_dildo1.dff
+|   |               gun_dildo1.txd
+|   |               gun_dildo2.dff
+|   |               gun_dildo2.txd
+|   |               gun_para.dff
+|   |               gun_para.txd
+|   |               gun_vibe1.dff
+|   |               gun_vibe1.txd
+|   |               gun_vibe2.dff
+|   |               gun_vibe2.txd
+|   |               gym_bike.dff
+|   |               gym_weights.txd
+|   |               hashblock1_sfs.txd
+|   |               heatseek.dff
+|   |               heatseek.txd
+|   |               hoop.dff
+|   |               hosbibal2sfw.txd
+|   |               hotelbackpool_sfs.txd
+|   |               hub_alpha.txd
+|   |               icons4.txd
+|   |               icons7.txd
+|   |               idlewood6_tr.txd
+|   |               inglewood01_lax.txd
+|   |               irgoggles.dff
+|   |               irgoggles.txd
+|   |               jeffers4_lae.txd
+|   |               jetpack.dff
+|   |               jetpack.txd
+|   |               junkpiles.txd
+|   |               katana.dff
+|   |               katana.txd
+|   |               kbplantssmz.txd
+|   |               kbplantssmz2.txd
+|   |               kmb_bpress.dff
+|   |               kmb_dumbbell.dff
+|   |               kmb_dumbbell2.dff
+|   |               kmb_dumbbell_l.dff
+|   |               kmb_dumbbell_r.dff
+|   |               knifecur.dff
+|   |               knifecur.txd
+|   |               lae2coast_alpha.txd
+|   |               laealpha.txd
+|   |               lahillstr_lawn.txd
+|   |               lahills_wiresnshit3.txd
+|   |               lanblokc.txd
+|   |               lanfireesc_tr.txd
+|   |               lanitewin4_lan.dff
+|   |               las2jmscum12.dff
+|   |               lasground_las2.txd
+|   |               lawalphav.txd
+|   |               lawest1.txd
+|   |               lawnbush.txd
+|   |               lawnest2.txd
+|   |               lawwhitebuilds.txd
+|   |               law_coffintxd.txd
+|   |               libertyhi.txd
+|   |               librest.txd
+|   |               logcabincs_t.txd
+|   |               lwbldstuff03_lvs.dff
+|   |               m4.dff
+|   |               m4.txd
+|   |               market2_lae.dff
+|   |               micro_uzi.dff
+|   |               micro_uzi.txd
+|   |               milbase.txd
+|   |               minigun.dff
+|   |               minigun.txd
+|   |               minigun2.dff
+|   |               minigun2.txd
+|   |               missile.dff
+|   |               missile.txd
+|   |               molotov.dff
+|   |               molotov.txd
+|   |               mp5lng.dff
+|   |               mp5lng.txd
+|   |               mtbtrackcs_t.txd
+|   |               mullho03a_lahills.txd
+|   |               nightlights01_sfse.dff
+|   |               nightlights02_sfse.dff
+|   |               nightlights03_sfse.dff
+|   |               nitestick.dff
+|   |               nitestick.txd
+|   |               nvgoggles.dff
+|   |               nvgoggles.txd
+|   |               oldwest.txd
+|   |               ottos2_sfw.txd
+|   |               parachute.dff
+|   |               paracx.txd
+|   |               pawnshp_lae2.dff
+|   |               pershingsq.txd
+|   |               plants_officeext.txd
+|   |               poolcue.dff
+|   |               poolcue.txd
+|   |               rczero_track.txd
+|   |               rocketla.dff
+|   |               rocketla.txd
+|   |               rodeo02_law2.txd
+|   |               rodeo04_law2.txd
+|   |               rodeo05_law2.txd
+|   |               rodeot01_law2.txd
+|   |               satchel.dff
+|   |               satchel.txd
+|   |               sawmillcs_t.txd
+|   |               sawnoff.dff
+|   |               sawnoff.txd
+|   |               sfeship1.txd
+|   |               sfxref.txd
+|   |               shotgspa.dff
+|   |               shotgspa.txd
+|   |               shovel.dff
+|   |               shovel.txd
+|   |               silenced.dff
+|   |               silenced.txd
+|   |               skateboard.txd
+|   |               sniper.dff
+|   |               sniper.txd
+|   |               spraycan.dff
+|   |               spraycan.txd
+|   |               stadtplaza_lae2.txd
+|   |               stalks.txd
+|   |               stormd_fill.txd
+|   |               stormd_filllas2.txd
+|   |               stripshop1.txd
+|   |               sunrise05_lawn.txd
+|   |               sunset1alp_lan2.txd
+|   |               sunstrans_law2.txd
+|   |               sw_block04.txd
+|   |               sw_brewery.txd
+|   |               sw_diner1.txd
+|   |               sw_logcamp.txd
+|   |               tags2_lalae.txd
+|   |               tags_laazteca.txd
+|   |               tags_lafront.txd
+|   |               tags_lakilo.txd
+|   |               tags_larifa.txd
+|   |               tags_larollin.txd
+|   |               tags_laseville.txd
+|   |               tags_latemple.txd
+|   |               tags_lavagos.txd
+|   |               teargas.dff
+|   |               teargas.txd
+|   |               tec9.dff
+|   |               tec9.txd
+|   |               tree1.txd
+|   |               tree1prc.txd
+|   |               tree2.txd
+|   |               tree2prc.txd
+|   |               tree3.txd
+|   |               tree3prc.txd
+|   |               trees2.txd
+|   |               triadbush_lvs.txd
+|   |               triadcasign_lvs.dff
+|   |               underwater.txd
+|   |               vegashse2.txd
+|   |               vegashse3.txd
+|   |               vegashse5.txd
+|   |               vegashse6.txd
+|   |               vegashse7.txd
+|   |               vegashse8.txd
+|   |               vegassvehse7.txd
+|   |               vegaswaterfall.txd
+|   |               vegaswaterfall02.dff
+|   |               vegstadplants.txd
+|   |               vegtresshi9b.txd
+|   |               veg_fuzzyplant.txd
+|   |               veg_leaves.txd
+|   |               veg_leavesplnt.txd
+|   |               vgesvhouse01.txd
+|   |               vgnbasktball.txd
+|   |               vgnbball.txd
+|   |               vgnbballsign2.txd
+|   |               vgncondos1.txd
+|   |               vgncorp1.txd
+|   |               vgndwntwn2.txd
+|   |               vgndwntwn22.txd
+|   |               vgndwntwn3.txd
+|   |               vgnewfence.txd
+|   |               vgnfirestat.txd
+|   |               vgnfremnt1.txd
+|   |               vgnglfcrse1.txd
+|   |               vgnhseing1.txd
+|   |               vgnlowbild.txd
+|   |               vgnlowwall.txd
+|   |               vgnretail4.txd
+|   |               vgsbballcrt.txd
+|   |               vgsbikesclint.txd
+|   |               vgse24hr_lvs.dff
+|   |               vgsebushes.txd
+|   |               vgseflowers.txd
+|   |               vgsnbuild07.txd
+|   |               vgsn_flowers.txd
+|   |               vgsn_frntneon_nt.dff
+|   |               vgsn_nitree.txd
+|   |               vgsn_nitree_b02.dff
+|   |               vgsn_nitree_g02.dff
+|   |               vgsn_nitree_r02.dff
+|   |               vgsscollege.txd
+|   |               vgssland03.txd
+|   |               vgsswarehse01.txd
+|   |               vgwestboiga1.txd
+|   |               vgwestretail1.txd
+|   |               vgwsavehses.txd
+|   |               visagesign04.dff
+|   |               waterfall_sfw.txd
+|   |               wiresetc2_las.txd
+|   |               wiresetc_las.txd
+|   |               wiresetc_las2.txd
+|   |               ws_jetty_sfx.txd
+|   |               w_towncs_t.txd
+|   |               
+|   +---Mobile GUI
+|   |   +---cleo
+|   |   |       Missing icons.cs
+|   |   |       SCHOOL.cs
+|   |   |       
+|   |   +---data
+|   |   |   |   fonts.dat
+|   |   |   |   
+|   |   |   \---maps
+|   |   |       \---leveldes
+|   |   |               seabed.ipl
+|   |   |               
+|   |   \---models
+|   |           fonts.txd
+|   |           fronten1.txd
+|   |           fronten2.txd
+|   |           fronten_pc.txd
+|   |           hud.txd
+|   |           pcbtns.txd
+|   |           
+|   +---Neons And Shadows
+|   |   +---gta3
+|   |   |       treeshad.txd
+|   |   |       vegasneon.txd
+|   |   |       vghotelnice.txd
+|   |   |       vgncircir.txd
+|   |   |       vgnfremnt2.txd
+|   |   |       vgnvrock.txd
+|   |   |       vgseneonwires.txd
+|   |   |       vgsn_frntneon_nt.dff
+|   |   |       vgsn_nitree.txd
+|   |   |       vgsn_nitree_b01.dff
+|   |   |       vgsn_nitree_b02.dff
+|   |   |       vgsn_nitree_g01.dff
+|   |   |       vgsn_nitree_g02.dff
+|   |   |       vgsn_nitree_r01.dff
+|   |   |       vgsn_nitree_r02.dff
+|   |   |       vgsn_nitree_y01.dff
+|   |   |       vgsn_nitree_y02.dff
+|   |   |       vgssairport.txd
+|   |   |       vgsvmdshad.txd
+|   |   |       
+|   |   \---gta_int
+|   |           ab_wooziesshad.txd
+|   |           gap.txd
+|   |           intclotheshiphop.txd
+|   |           int_tatoo.txd
+|   |           kickarse.txd
+|   |           labigshadow.txd
+|   |           lamidsaveshad.txd
+|   |           ryshadow.txd
+|   |           scummy.txd
+|   |           svlabig.txd
+|   |           svsfsmshad.dff
+|   |           svvgmd.txd
+|   |           sweetshads.txd
+|   |           triad_neon.txd
+|   |           
+|   +---No Aggressive Drivers
+|   |   \---data
+|   |       \---decision
+|   |           \---allowed
+|   |                   r_norm.ped
+|   |                   r_tough.ped
+|   |                   
+|   +---Ped Tweaks
+|   |   +---cleo
+|   |   |       PedTweaks.cs
+|   |   |       PedTweaks.ini
+|   |   |       SAPT.cs
+|   |   |       SAPT.ini
+|   |   |       
+|   |   +---data
+|   |   |   |   cargrp.dat
+|   |   |   |   dealer.dat
+|   |   |   |   pedgrp.dat
+|   |   |   |   peds.ide
+|   |   |   |   popcycle.dat
+|   |   |   |   
+|   |   |   \---script
+|   |   |           main.scm
+|   |   |           script.img
+|   |   |           
+|   |   +---models
+|   |   |   \---gta3.img
+|   |   |           lvcb1.dff
+|   |   |           lvcb1.txd
+|   |   |           wmytx1.dff
+|   |   |           wmytx1.txd
+|   |   |           wmytx2.dff
+|   |   |           wmytx2.txd
+|   |   |           
+|   |   \---scripts
+|   |           PedTweaks.asi
+|   |           
+|   +---Pre-lighting Fixes Pack
+|   |   +---Fixed Vegetation Pre-Lighting
+|   |   |       ash1_hi.dff
+|   |   |       ash_po.dff
+|   |   |       aw_streettree3.dff
+|   |   |       bg_fir_dead.dff
+|   |   |       ceasertree01_lvs.dff
+|   |   |       ceasertree02_lvs.dff
+|   |   |       cedar1_hi.dff
+|   |   |       cedar1_po.dff
+|   |   |       cedar2_hi.dff
+|   |   |       cedar2_po.dff
+|   |   |       cedar3_hi.dff
+|   |   |       cedar3_po.dff
+|   |   |       cj_urb_rub_1.dff
+|   |   |       cj_urb_rub_2.dff
+|   |   |       cj_urb_rub_3.dff
+|   |   |       cj_urb_rub_3b.dff
+|   |   |       cj_urb_rub_4.dff
+|   |   |       cj_urb_rub_5.dff
+|   |   |       dead_tree_1.dff
+|   |   |       dead_tree_10.dff
+|   |   |       dead_tree_11.dff
+|   |   |       dead_tree_12.dff
+|   |   |       dead_tree_13.dff
+|   |   |       dead_tree_14.dff
+|   |   |       dead_tree_15.dff
+|   |   |       dead_tree_16.dff
+|   |   |       dead_tree_17.dff
+|   |   |       dead_tree_18.dff
+|   |   |       dead_tree_19.dff
+|   |   |       dead_tree_2.dff
+|   |   |       dead_tree_20.dff
+|   |   |       dead_tree_3.dff
+|   |   |       dead_tree_4.dff
+|   |   |       dead_tree_5.dff
+|   |   |       dead_tree_6.dff
+|   |   |       dead_tree_7.dff
+|   |   |       dead_tree_8.dff
+|   |   |       dead_tree_9.dff
+|   |   |       elmdead_hi.dff
+|   |   |       elmdead_po.dff
+|   |   |       elmredsm_po.dff
+|   |   |       elmred_hi.dff
+|   |   |       elmred_hism.dff
+|   |   |       elmred_po.dff
+|   |   |       elmsparsesm_po.dff
+|   |   |       elmsparse_hi.dff
+|   |   |       elmsparse_hism.dff
+|   |   |       elmtreegrn2_hi.dff
+|   |   |       elmtreegrn2_po.dff
+|   |   |       elmtreegrn_hi.dff
+|   |   |       elmtreegrn_hism.dff
+|   |   |       elmtreegrn_po.dff
+|   |   |       elmweesm_po.dff
+|   |   |       elmwee_hi.dff
+|   |   |       elmwee_hism.dff
+|   |   |       firtree2.dff
+|   |   |       genveg_bush01.dff
+|   |   |       genveg_bush07.dff
+|   |   |       genveg_bush08.dff
+|   |   |       genveg_bush09.dff
+|   |   |       genveg_bush10.dff
+|   |   |       genveg_bush11.dff
+|   |   |       genveg_bush12.dff
+|   |   |       genveg_bush13.dff
+|   |   |       genveg_bush14.dff
+|   |   |       genveg_bush15.dff
+|   |   |       genveg_bush16.dff
+|   |   |       genveg_bush17.dff
+|   |   |       genveg_bush18.dff
+|   |   |       genveg_bush19.dff
+|   |   |       genveg_bushy.dff
+|   |   |       genveg_tallgrass.dff
+|   |   |       genveg_tallgrass01.dff
+|   |   |       genveg_tallgrass02.dff
+|   |   |       genveg_tallgrass03.dff
+|   |   |       genveg_tallgrass04.dff
+|   |   |       genveg_tallgrass05.dff
+|   |   |       genveg_tallgrass06.dff
+|   |   |       genveg_tallgrass07.dff
+|   |   |       genveg_tallgrass08.dff
+|   |   |       genveg_tallgrass10.dff
+|   |   |       genveg_tallgrass11.dff
+|   |   |       genveg_tallgrass12.dff
+|   |   |       gen_tallgrsnew.dff
+|   |   |       hashburytree4sfs.dff
+|   |   |       hazeltall_hi.dff
+|   |   |       hazelweetree_hi.dff
+|   |   |       hazelweetree_po.dff
+|   |   |       josh_ball.dff
+|   |   |       kb_canopy_test.dff
+|   |   |       kb_chr_tbl_test.dff
+|   |   |       kb_planter+bush.dff
+|   |   |       kb_planter+bush2.dff
+|   |   |       kb_planterbox.dff
+|   |   |       kb_pot_1.dff
+|   |   |       locust_hi.dff
+|   |   |       locust_po.dff
+|   |   |       lod_largefurs05.dff
+|   |   |       lod_largefurs06.dff
+|   |   |       lod_largefurs07.dff
+|   |   |       lod_redwoodgrp.dff
+|   |   |       lod_vbg_fir_co.dff
+|   |   |       lod_vegvbbigbrn.dff
+|   |   |       new_bushsm.dff
+|   |   |       new_bushtest.dff
+|   |   |       pinebg_hi.dff
+|   |   |       pinebg_hism.dff
+|   |   |       pinebg_po.dff
+|   |   |       pinetree01.dff
+|   |   |       pinetree02.dff
+|   |   |       pinetree03.dff
+|   |   |       pinetree04.dff
+|   |   |       pinetree05.dff
+|   |   |       pinetree06.dff
+|   |   |       pinetree07.dff
+|   |   |       pinetree08.dff
+|   |   |       pot_01.dff
+|   |   |       pot_02.dff
+|   |   |       pot_03.dff
+|   |   |       procweegrs.dff
+|   |   |       p_rubble.dff
+|   |   |       p_rubble03.dff
+|   |   |       p_rubble04bcol.dff
+|   |   |       p_rubble04col.dff
+|   |   |       p_rubble05col.dff
+|   |   |       p_rubble0bcol.dff
+|   |   |       p_rubble2.dff
+|   |   |       p_rubblebig.dff
+|   |   |       rockbrkq.dff
+|   |   |       sand_combush02.dff
+|   |   |       sand_combush03.dff
+|   |   |       sand_combush1.dff
+|   |   |       sand_plant01.dff
+|   |   |       sand_plant02.dff
+|   |   |       sand_plant03.dff
+|   |   |       sand_plant04.dff
+|   |   |       sand_plant05.dff
+|   |   |       searock01.dff
+|   |   |       searock02.dff
+|   |   |       searock03.dff
+|   |   |       searock04.dff
+|   |   |       searock05.dff
+|   |   |       searock06.dff
+|   |   |       seaweed.dff
+|   |   |       sjmcacti03.dff
+|   |   |       sjmcacti1.dff
+|   |   |       sjmcacti2.dff
+|   |   |       sjmpalm.dff
+|   |   |       sjmpalmbig.dff
+|   |   |       sjmpalmbigpv.dff
+|   |   |       sjmpalmtall.dff
+|   |   |       sm_bevhiltree.dff
+|   |   |       sm_bevhiltreepv.dff
+|   |   |       sm_bushvbig.dff
+|   |   |       sm_bushytree.dff
+|   |   |       sm_bush_large_1.dff
+|   |   |       sm_bush_small_1.dff
+|   |   |       sm_cunt_rock1.dff
+|   |   |       sm_descactiigrpb.dff
+|   |   |       sm_des_agave1.dff
+|   |   |       sm_des_agave2.dff
+|   |   |       sm_des_bush1.dff
+|   |   |       sm_des_cactflr.dff
+|   |   |       sm_des_cactiigrp.dff
+|   |   |       sm_des_cact_bsh.dff
+|   |   |       sm_des_josh_lrg1.dff
+|   |   |       sm_des_josh_lrg2.dff
+|   |   |       sm_des_josh_sm2.dff
+|   |   |       sm_des_josh_sml1.dff
+|   |   |       sm_des_pcklypr1.dff
+|   |   |       sm_des_pcklypr2.dff
+|   |   |       sm_des_pcklypr3.dff
+|   |   |       sm_drybrush_sm1.dff
+|   |   |       sm_firtallded.dff
+|   |   |       sm_firtbshg.dff
+|   |   |       sm_fir_.dff
+|   |   |       sm_fir_copse1.dff
+|   |   |       sm_fir_copse2.dff
+|   |   |       sm_fir_dead.dff
+|   |   |       sm_fir_group.dff
+|   |   |       sm_fir_log02.dff
+|   |   |       sm_fir_scabby.dff
+|   |   |       sm_fir_scabg.dff
+|   |   |       sm_fir_scabg_po.dff
+|   |   |       sm_fir_scabt.dff
+|   |   |       sm_fir_scabtg.dff
+|   |   |       sm_fir_tall.dff
+|   |   |       sm_fir_tallgroup.dff
+|   |   |       sm_redwoodgrp.dff
+|   |   |       sm_redwood_.dff
+|   |   |       sm_scrb_column1.dff
+|   |   |       sm_scrb_column2.dff
+|   |   |       sm_scrb_column3.dff
+|   |   |       sm_scrb_grp1.dff
+|   |   |       sm_scrub_rock2.dff
+|   |   |       sm_scrub_rock3.dff
+|   |   |       sm_scrub_rock4.dff
+|   |   |       sm_scrub_rock5.dff
+|   |   |       sm_scrub_rock6.dff
+|   |   |       sm_tumblewd48p.dff
+|   |   |       sm_tumbleweed.dff
+|   |   |       sm_vegvbbig.dff
+|   |   |       sm_vegvbbigbrn.dff
+|   |   |       sm_veg_tree4.dff
+|   |   |       sm_veg_tree4_big.dff
+|   |   |       sm_veg_tree4_vbig.dff
+|   |   |       sm_veg_tree5.dff
+|   |   |       sm_veg_tree6.dff
+|   |   |       sm_veg_tree7vbig.dff
+|   |   |       sm_veg_tree7_big.dff
+|   |   |       sprucetree_hi.dff
+|   |   |       starfish.dff
+|   |   |       tree_hipoly04.dff
+|   |   |       tree_hipoly06.dff
+|   |   |       tree_hipoly07.dff
+|   |   |       tree_hipoly08.dff
+|   |   |       tree_hipoly09.dff
+|   |   |       tree_hipoly09b.dff
+|   |   |       tree_hipoly10.dff
+|   |   |       tree_hipoly11.dff
+|   |   |       tree_hipoly14.dff
+|   |   |       tree_hipoly19.dff
+|   |   |       vbg_fir_copse.dff
+|   |   |       veg_bevtree1.dff
+|   |   |       veg_bevtree2.dff
+|   |   |       veg_bevtree3.dff
+|   |   |       veg_fern_balcny_kb1.dff
+|   |   |       veg_fern_balcny_kb2.dff
+|   |   |       veg_ivy_balcny_kb3.dff
+|   |   |       veg_largefurs01.dff
+|   |   |       veg_largefurs02.dff
+|   |   |       veg_largefurs03.dff
+|   |   |       veg_largefurs04.dff
+|   |   |       veg_largefurs05.dff
+|   |   |       veg_largefurs06.dff
+|   |   |       veg_largefurs07.dff
+|   |   |       veg_palm01.dff
+|   |   |       veg_palm02.dff
+|   |   |       veg_palm03.dff
+|   |   |       veg_palm04.dff
+|   |   |       veg_palmbig14.dff
+|   |   |       veg_palmkb1.dff
+|   |   |       veg_palmkb10.dff
+|   |   |       veg_palmkb13.dff
+|   |   |       veg_palmkb14.dff
+|   |   |       veg_palmkb2.dff
+|   |   |       veg_palmkb3.dff
+|   |   |       veg_palmkb4.dff
+|   |   |       veg_palmkb5.dff
+|   |   |       veg_palmkb7.dff
+|   |   |       veg_palmkb8.dff
+|   |   |       veg_palmkb9.dff
+|   |   |       veg_palmkbb11.dff
+|   |   |       veg_palwee01.dff
+|   |   |       veg_palwee02.dff
+|   |   |       veg_palwee03.dff
+|   |   |       veg_pflowers01.dff
+|   |   |       veg_pflowers02.dff
+|   |   |       veg_pflowers03.dff
+|   |   |       veg_pflowers04.dff
+|   |   |       veg_pflowers2wee.dff
+|   |   |       veg_pflowerswee.dff
+|   |   |       veg_procfpatch.dff
+|   |   |       veg_procfpatch01.dff
+|   |   |       veg_procfpatchwee.dff
+|   |   |       veg_procgrasspatch.dff
+|   |   |       veg_tree3.dff
+|   |   |       veg_treea1.dff
+|   |   |       veg_treea3.dff
+|   |   |       veg_treeb1.dff
+|   |   |       vgsn_nitree_b01.dff
+|   |   |       vgsn_nitree_g01.dff
+|   |   |       vgsn_nitree_r01.dff
+|   |   |       vgsn_nitree_y01.dff
+|   |   |       vgsn_nitree_y02.dff
+|   |   |       vgs_palm01.dff
+|   |   |       vgs_palm02.dff
+|   |   |       vgs_palm03.dff
+|   |   |       vgs_palm04.dff
+|   |   |       vgs_palmvtall.dff
+|   |   |       
+|   |   +---Vertex Colour Fix + 2dfx effects
+|   |   |   |   . blockpallet.txt
+|   |   |   |   . chapel_SFN.txt
+|   |   |   |   . des_westrn7_.txt
+|   |   |   |   . donuts2_sfw.txt
+|   |   |   |   . dyn_bar_b_q.txt
+|   |   |   |   . DYN_F_WOOD_2.txt
+|   |   |   |   . dyn_garrage2.txt
+|   |   |   |   . DYN_post_box.txt
+|   |   |   |   . dyn_table_2.txt
+|   |   |   |   . Elmtreegrn2_hi.txt
+|   |   |   |   . lodasave_sfw.txt
+|   |   |   |   . lodckfacttanks_sfs.txt
+|   |   |   |   . roofstuff14.txt
+|   |   |   |   . shoppie6_SFS03.txt
+|   |   |   |   bin1.dff
+|   |   |   |   blockpallet.dff
+|   |   |   |   chapel_SFN.dff
+|   |   |   |   des_westrn7_.dff
+|   |   |   |   donuts2_sfw.dff
+|   |   |   |   dyn_bar_b_q.dff
+|   |   |   |   dyn_f_wood_2.dff
+|   |   |   |   dyn_garrage2.dff
+|   |   |   |   dyn_post_box.dff
+|   |   |   |   dyn_table_2.dff
+|   |   |   |   elmtreegrn2_hi.dff
+|   |   |   |   gen_roofbit1.dff
+|   |   |   |   gen_roofbit5.dff
+|   |   |   |   lodasave_sfw.dff
+|   |   |   |   lodckfacttanks_sfs.dff
+|   |   |   |   roofstuff14.dff
+|   |   |   |   shoppie6_sfs03.dff
+|   |   |   |   
+|   |   |   +---bigboxtmp18
+|   |   |   |       . bigboxtmp18.txt
+|   |   |   |       bigboxtmp18.dff
+|   |   |   |       lodboxtmp18.dff
+|   |   |   |       
+|   |   |   +---cn2_polis
+|   |   |   |       . cn2_polis.txt
+|   |   |   |       cn2_polis.dff
+|   |   |   |       lod_cn2_polis.dff
+|   |   |   |       
+|   |   |   +---donuts_sfw
+|   |   |   |       . donuts2_sfw.txt
+|   |   |   |       . donuts_sfw.txt
+|   |   |   |       donuts2_sfw.dff
+|   |   |   |       donuts_sfw.dff
+|   |   |   |       loduts_sfw.dff
+|   |   |   |       
+|   |   |   +---tcehilouse02
+|   |   |   |       . tcehilouse02.txt
+|   |   |   |       lod_tcehilouse02.dff
+|   |   |   |       tcehilouse02.dff
+|   |   |   |       
+|   |   |   +---__2dfx pack 01__
+|   |   |   |       . brewery.txt
+|   |   |   |       . chillidogcart.txt
+|   |   |   |       . desn2_stripsigs1.txt
+|   |   |   |       . des_bigbull.txt
+|   |   |   |       . hashblock1_10_sfs.txt
+|   |   |   |       . noodlecart_prop.txt
+|   |   |   |       ce_brewery.dff
+|   |   |   |       chillidogcart.dff
+|   |   |   |       desn2_stripsigs1.dff
+|   |   |   |       des_bigbull.dff
+|   |   |   |       hashblock1_10_sfs.dff
+|   |   |   |       noodlecart_prop.dff
+|   |   |   |       
+|   |   |   \---__added objects without replacing__
+|   |   |           . des_stwnbowl.txt
+|   |   |           . jettysign_law.txt
+|   |   |           bowln.dff
+|   |   |           des_stwnbowl.dff
+|   |   |           jettysign_law.dff
+|   |   |           jlneon.dff
+|   |   |           law_3.col
+|   |   |           Loader.txt
+|   |   |           neontex.txd
+|   |   |           vtxcfix2dfxs.col
+|   |   |           vtxcfix2dfxs.ide
+|   |   |           vtxcfix2dfxs.ipl
+|   |   |           
+|   |   \---Vertex Colour Fixes + Improvements
+|   |       |   ab_acc_control.dff
+|   |       |   compmedhos5_lae.dff
+|   |       |   coochieghous.dff
+|   |       |   fredricks01_lawn.dff
+|   |       |   ganghous05_lax.dff
+|   |       |   hospital01_lvs.dff
+|   |       |   laecumpstreet.dff
+|   |       |   laehospital1.dff
+|   |       |   lawnhousegreyls.dff
+|   |       |   lawnhousegreyrs.dff
+|   |       |   lawnhousereda.dff
+|   |       |   Readme (ORIGINAL).txt
+|   |       |   sunset18tr_lawn.dff
+|   |       |   sunset18_lawn.dff
+|   |       |   vegassedge09.dff
+|   |       |   vegassedge30.dff
+|   |       |   vegaswedge19.dff
+|   |       |   vgsbighngrdoor.dff
+|   |       |   vgssbighanger1.dff
+|   |       |   
+|   |       +---law2
+|   |       |   |   bealantr01_law01.dff
+|   |       |   |   bealantr02_law2.dff
+|   |       |   |   bealantr03_law2.dff
+|   |       |   |   rodeo01_law2.dff
+|   |       |   |   rodeo02_law2.dff
+|   |       |   |   rodeo06tr_law2.dff
+|   |       |   |   rodeo06_law2.dff
+|   |       |   |   sanclifbal1_lax.dff
+|   |       |   |   sanclifft02_law2.dff
+|   |       |   |   sanclifft05_law2.dff
+|   |       |   |   sanclift01_law2.dff
+|   |       |   |   venice03tr_law2.dff
+|   |       |   |   venice04tr_law2.dff
+|   |       |   |   
+|   |       |   \---col
+|   |       |           law2_1.col
+|   |       |           
+|   |       \---Vegetation
+|   |               aw_streettree1.dff
+|   |               aw_streettree2.dff
+|   |               sand_josh1.dff
+|   |               sand_josh2.dff
+|   |               tree_hipoly04.dff
+|   |               
+|   +---PS2 Object Data
+|   |   \---data
+|   |           object.dat
+|   |           
+|   +---Real Traffic Fix
+|   |       RealTrafficFix.ini
+|   |       RealTrafficFix.log
+|   |       RealTrafficFix.SA.asi
+|   |       
+|   +---Restyle Vehicles + PaintJobs
+|   |   |   androm.DFF
+|   |   |   artict1.DFF
+|   |   |   artict1.txd
+|   |   |   artict2.txd
+|   |   |   artict3.txd
+|   |   |   bandito.DFF
+|   |   |   banshee.dff
+|   |   |   banshee.txd
+|   |   |   bfinject.dff
+|   |   |   bfinject.txd
+|   |   |   blade1.txd
+|   |   |   blade2.txd
+|   |   |   blade3.txd
+|   |   |   blistac.DFF
+|   |   |   bloodra.DFF
+|   |   |   bloodra.txd
+|   |   |   Broadway1.txd
+|   |   |   Broadway2.txd
+|   |   |   broadway3.txd
+|   |   |   buccanee.dff
+|   |   |   buccanee.txd
+|   |   |   bullet.dff
+|   |   |   bullet.txd
+|   |   |   camper.dff
+|   |   |   camper.txd
+|   |   |   camper1.txd
+|   |   |   cheetah.dff
+|   |   |   cheetah.txd
+|   |   |   clover.DFF
+|   |   |   combine.dff
+|   |   |   combine.txd
+|   |   |   comet.dff
+|   |   |   comet.txd
+|   |   |   copcarru.dff
+|   |   |   copcarru.txd
+|   |   |   csmothership.txd
+|   |   |   dft30.DFF
+|   |   |   elegy1.txd
+|   |   |   elegy2.txd
+|   |   |   elegy3.txd
+|   |   |   farmtr1.txd
+|   |   |   fbiranch.dff
+|   |   |   fbiranch.txd
+|   |   |   fbmp_c_s.DFF
+|   |   |   flash1.txd
+|   |   |   flash2.txd
+|   |   |   flash3.txd
+|   |   |   freeway.dff
+|   |   |   freeway.txd
+|   |   |   hotknife.dff
+|   |   |   hotknife.txd
+|   |   |   hotrina.txd
+|   |   |   hotrinb.txd
+|   |   |   hotring.txd
+|   |   |   hustler.dff
+|   |   |   hustler.txd
+|   |   |   jester.DFF
+|   |   |   jester1.txd
+|   |   |   jester2.txd
+|   |   |   jester3.txd
+|   |   |   journey.txd
+|   |   |   kart.txd
+|   |   |   lgt_b_rspt.DFF
+|   |   |   lgt_b_sspt.DFF
+|   |   |   linerun.dff
+|   |   |   linerun.txd
+|   |   |   maverick.txd
+|   |   |   monstera.dff
+|   |   |   monstera.txd
+|   |   |   monsterb.DFF
+|   |   |   monsterb.txd
+|   |   |   patriot.dff
+|   |   |   patriot.txd
+|   |   |   pcj600.dff
+|   |   |   pcj600.txd
+|   |   |   phoenix.DFF
+|   |   |   quad.DFF
+|   |   |   rancher.DFF
+|   |   |   remingtn.txd
+|   |   |   remingtn1.txd
+|   |   |   remingtn2.txd
+|   |   |   remingtn3.txd
+|   |   |   rhino.dff
+|   |   |   rnchlure.DFF
+|   |   |   sadler.DFF
+|   |   |   sadlshit.DFF
+|   |   |   sanchez.dff
+|   |   |   sanchez.txd
+|   |   |   sandking.dff
+|   |   |   sandking.txd
+|   |   |   savanna1.txd
+|   |   |   savanna2.txd
+|   |   |   savanna3.txd
+|   |   |   seaspar.txd
+|   |   |   sentinel.dff
+|   |   |   sentinel.txd
+|   |   |   skimmer.DFF
+|   |   |   skimmer.txd
+|   |   |   slamvan1.txd
+|   |   |   slamvan2.txd
+|   |   |   slamvan3.txd
+|   |   |   sparrow.txd
+|   |   |   stratum1.txd
+|   |   |   stratum2.txd
+|   |   |   stratum3.txd
+|   |   |   streakc.dff
+|   |   |   streakc.txd
+|   |   |   stunt.DFF
+|   |   |   stunt.txd
+|   |   |   sultan.DFF
+|   |   |   sultan1.txd
+|   |   |   sultan2.txd
+|   |   |   sultan3.txd
+|   |   |   tornado1.txd
+|   |   |   tornado2.txd
+|   |   |   tornado3.txd
+|   |   |   tugstair.DFF
+|   |   |   uranus1.txd
+|   |   |   uranus2.txd
+|   |   |   uranus3.txd
+|   |   |   utiltr1.DFF
+|   |   |   utiltr1.txd
+|   |   |   vehicle.txd
+|   |   |   vortex.DFF
+|   |   |   washing.dff
+|   |   |   washing.txd
+|   |   |   wheel_gn1.dff
+|   |   |   wheel_gn2.dff
+|   |   |   wheel_gn3.dff
+|   |   |   wheel_gn4.dff
+|   |   |   wheel_gn5.dff
+|   |   |   wheel_lr1.dff
+|   |   |   wheel_lr2.dff
+|   |   |   wheel_lr3.dff
+|   |   |   wheel_lr4.dff
+|   |   |   wheel_lr5.dff
+|   |   |   wheel_or1.dff
+|   |   |   wheel_sr1.dff
+|   |   |   wheel_sr2.dff
+|   |   |   wheel_sr3.dff
+|   |   |   wheel_sr4.dff
+|   |   |   wheel_sr5.dff
+|   |   |   wheel_sr6.dff
+|   |   |   
+|   |   +---cutscene.img
+|   |   |       csbobcat92.DFF
+|   |   |       csbobcat92.txd
+|   |   |       csbravura.dff
+|   |   |       csbravura.txd
+|   |   |       csburrito92.dff
+|   |   |       csburrito92.txd
+|   |   |       cscopcarla.dff
+|   |   |       cscopcarla.txd
+|   |   |       cscopcarla92.dff
+|   |   |       cscopcarla92.txd
+|   |   |       cscopcarsf.dff
+|   |   |       cscopcarsf.txd
+|   |   |       csfirela.dff
+|   |   |       csfirela.txd
+|   |   |       csglendale92.dff
+|   |   |       csglendale92.txd
+|   |   |       csgreenwood.dff
+|   |   |       csgreenwood.txd
+|   |   |       csmothership.dff
+|   |   |       csmothership.txd
+|   |   |       csremington92.dff
+|   |   |       csremington92.txd
+|   |   |       cssabre92.dff
+|   |   |       cssabre92.txd
+|   |   |       cssadler.dff
+|   |   |       cssadler.txd
+|   |   |       cssavanna.dff
+|   |   |       cssavanna.txd
+|   |   |       cssecurica92.dff
+|   |   |       cssecurica92.txd
+|   |   |       cstaxi92.dff
+|   |   |       cstaxi92.txd
+|   |   |       csvoodoo.dff
+|   |   |       csvoodoo.txd
+|   |   |       cswashington.dff
+|   |   |       cswashington.txd
+|   |   |       cswheel.txd
+|   |   |       cszr350.dff
+|   |   |       cszr350.txd
+|   |   |       cszr350b.dff
+|   |   |       cszr350b.txd
+|   |   |       
+|   |   \---data
+|   |           carcols.dat
+|   |           
+|   +---Rusty Brown's Ring Donuts
+|   |   +---CLEO
+|   |   |   |   RBRD.cs
+|   |   |   |   RBRD.ini
+|   |   |   |   
+|   |   |   \---CLEO_TEXT
+|   |   |           RBRD.fxt
+|   |   |           
+|   |   \---Data
+|   |       \---Maps
+|   |               FDDONUT.ipl
+|   |               
+|   +---SA Player SprintArmed
+|   |   |   readme.txt
+|   |   |   SA.Player_SprintArmed.asi
+|   |   |   
+|   |   +---anim
+|   |   |       ped.ifp
+|   |   |       
+|   |   \---models
+|   |       |   fronten1.txd
+|   |       |   fronten2.txd
+|   |       |   fronten_pc.txd
+|   |       |   hud.txd
+|   |       |   pcbtns.txd
+|   |       |   ps3btns.txd
+|   |       |   x360btns.txd
+|   |       |   
+|   |       +---gta3.img
+|   |       |       radar00.txd
+|   |       |       radar01.txd
+|   |       |       radar02.txd
+|   |       |       radar03.txd
+|   |       |       radar04.txd
+|   |       |       radar05.txd
+|   |       |       radar06.txd
+|   |       |       radar07.txd
+|   |       |       radar08.txd
+|   |       |       radar09.txd
+|   |       |       radar10.txd
+|   |       |       radar100.txd
+|   |       |       radar101.txd
+|   |       |       radar102.txd
+|   |       |       radar103.txd
+|   |       |       radar104.txd
+|   |       |       radar105.txd
+|   |       |       radar106.txd
+|   |       |       radar107.txd
+|   |       |       radar108.txd
+|   |       |       radar109.txd
+|   |       |       radar11.txd
+|   |       |       radar110.txd
+|   |       |       radar111.txd
+|   |       |       radar112.txd
+|   |       |       radar113.txd
+|   |       |       radar114.txd
+|   |       |       radar115.txd
+|   |       |       radar116.txd
+|   |       |       radar117.txd
+|   |       |       radar118.txd
+|   |       |       radar119.txd
+|   |       |       radar12.txd
+|   |       |       radar120.txd
+|   |       |       radar121.txd
+|   |       |       radar122.txd
+|   |       |       radar123.txd
+|   |       |       radar124.txd
+|   |       |       radar125.txd
+|   |       |       radar126.txd
+|   |       |       radar127.txd
+|   |       |       radar128.txd
+|   |       |       radar129.txd
+|   |       |       radar13.txd
+|   |       |       radar130.txd
+|   |       |       radar131.txd
+|   |       |       radar132.txd
+|   |       |       radar133.txd
+|   |       |       radar134.txd
+|   |       |       radar135.txd
+|   |       |       radar136.txd
+|   |       |       radar137.txd
+|   |       |       radar138.txd
+|   |       |       radar139.txd
+|   |       |       radar14.txd
+|   |       |       radar140.txd
+|   |       |       radar141.txd
+|   |       |       radar142.txd
+|   |       |       radar143.txd
+|   |       |       radar15.txd
+|   |       |       radar16.txd
+|   |       |       radar17.txd
+|   |       |       radar18.txd
+|   |       |       radar19.txd
+|   |       |       radar20.txd
+|   |       |       radar21.txd
+|   |       |       radar22.txd
+|   |       |       radar23.txd
+|   |       |       radar24.txd
+|   |       |       radar25.txd
+|   |       |       radar26.txd
+|   |       |       radar27.txd
+|   |       |       radar28.txd
+|   |       |       radar29.txd
+|   |       |       radar30.txd
+|   |       |       radar31.txd
+|   |       |       radar32.txd
+|   |       |       radar33.txd
+|   |       |       radar34.txd
+|   |       |       radar35.txd
+|   |       |       radar36.txd
+|   |       |       radar37.txd
+|   |       |       radar38.txd
+|   |       |       radar39.txd
+|   |       |       radar40.txd
+|   |       |       radar41.txd
+|   |       |       radar42.txd
+|   |       |       radar43.txd
+|   |       |       radar44.txd
+|   |       |       radar45.txd
+|   |       |       radar46.txd
+|   |       |       radar47.txd
+|   |       |       radar48.txd
+|   |       |       radar49.txd
+|   |       |       radar50.txd
+|   |       |       radar51.txd
+|   |       |       radar52.txd
+|   |       |       radar53.txd
+|   |       |       radar54.txd
+|   |       |       radar55.txd
+|   |       |       radar56.txd
+|   |       |       radar57.txd
+|   |       |       radar58.txd
+|   |       |       radar59.txd
+|   |       |       radar60.txd
+|   |       |       radar61.txd
+|   |       |       radar62.txd
+|   |       |       radar63.txd
+|   |       |       radar64.txd
+|   |       |       radar65.txd
+|   |       |       radar66.txd
+|   |       |       radar67.txd
+|   |       |       radar68.txd
+|   |       |       radar69.txd
+|   |       |       radar70.txd
+|   |       |       radar71.txd
+|   |       |       radar72.txd
+|   |       |       radar73.txd
+|   |       |       radar74.txd
+|   |       |       radar75.txd
+|   |       |       radar76.txd
+|   |       |       radar77.txd
+|   |       |       radar78.txd
+|   |       |       radar79.txd
+|   |       |       radar80.txd
+|   |       |       radar81.txd
+|   |       |       radar82.txd
+|   |       |       radar83.txd
+|   |       |       radar84.txd
+|   |       |       radar85.txd
+|   |       |       radar86.txd
+|   |       |       radar87.txd
+|   |       |       radar88.txd
+|   |       |       radar89.txd
+|   |       |       radar90.txd
+|   |       |       radar91.txd
+|   |       |       radar92.txd
+|   |       |       radar93.txd
+|   |       |       radar94.txd
+|   |       |       radar95.txd
+|   |       |       radar96.txd
+|   |       |       radar97.txd
+|   |       |       radar98.txd
+|   |       |       radar99.txd
+|   |       |       
+|   |       \---TXD
+|   |               LD_BEAT.txd
+|   |               LD_CARD.txd
+|   |               LD_CHAT.txd
+|   |               LD_DUAL.txd
+|   |               ld_grav.txd
+|   |               LD_NONE.txd
+|   |               LD_OTB.txd
+|   |               LD_OTB2.txd
+|   |               LD_PLAN.txd
+|   |               LD_POKE.txd
+|   |               LD_POOL.txd
+|   |               LD_RCE1.txd
+|   |               LD_RCE2.txd
+|   |               LD_RCE3.txd
+|   |               LD_RCE4.txd
+|   |               LD_RCE5.txd
+|   |               LD_ROUL.txd
+|   |               ld_shtr.txd
+|   |               LD_SLOT.txd
+|   |               LD_SPAC.txd
+|   |               LOADSCS.txd
+|   |               
+|   +---Shadow Height Fix
+|   |   \---CLEO
+|   |           Shadow Height Fix (Junior_Djjr).cs
+|   |           Shadow Height Fix.ini
+|   |           
+|   \---SkyGfx
+|       |   skygfx.asi
+|       |   skygfx1.ini
+|       |   skygfx2.ini
+|       |   skygfx3.ini
+|       |   stream.ini
+|       |   
+|       +---data
+|       |       colorcycle.dat
+|       |       timecyc.dat
+|       |       
+|       +---models
+|       |       Mobile_details.txd
+|       |       texdb.txt
+|       |       
+|       \---neo
+|               carTweakingTable.dat
+|               neo.txd
+|               
++---movies
+|       GTAtitles.mpg
+|       Logo.mpg
+|       
++---MP Installer
+|       sa-mp-0.3.7-R4-install (1).exe
+|       
++---original
+|       gta_sa.exe
+|       
++---ReadMe
+|       Readme.txt
+|       
++---SAMP
+|       blanktex.txd
+|       CUSTOM.ide
+|       custom.img
+|       samaps.txd
+|       SAMP.ide
+|       SAMP.img
+|       SAMP.ipl
+|       SAMPCOL.img
+|       
++---scripts
+|       fix.black_roads.asi
+|       FramerateVigilante.ini
+|       FramerateVigilante.SA.asi
+|       GInputSA.asi
+|       GInputSA.ini
+|       III.VC.SA.LimitAdjuster.asi
+|       III.VC.SA.LimitAdjuster.ini
+|       MixSets.asi
+|       MixSets.ini
+|       MixSets.log
+|       MobileLoad.asi
+|       modloader.asi
+|       ped_spec.asi
+|       ped_spec.ini
+|       SALodLights.asi
+|       SALodLights.dat
+|       SALodLights.ini
+|       SilentPatchSA.asi
+|       SilentPatchSA.ini
+|       skygrad.asi
+|       
++---text
+|       american.gxt
+|       french.gxt
+|       german.gxt
+|       italian.gxt
+|       languages.ini
+|       spanish.gxt
+|       
+\---Uninstall
+        botva2.dll
+        dark.png
+        light.png
+        Setup1.jpg
+        unins000.dat
+        unins000.exe
+        

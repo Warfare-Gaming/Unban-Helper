@@ -1,0 +1,53 @@
+ Volume in drive D is Imported Disk
+ Volume Serial Number is 0C96-0EBC
+
+ Directory of D:\Grand Theft Auto San Andreas
+
+01/04/2021  09:22 pm    <DIR>          .
+01/04/2021  09:22 pm    <DIR>          ..
+22/03/2021  06:47 pm    <DIR>          anim
+22/03/2021  06:43 pm    <DIR>          audio
+30/11/2010  11:26 am            92,216 bass.dll
+22/03/2021  06:50 pm    <DIR>          cleo
+29/03/2017  12:02 am           264,704 CLEO.asi
+31/03/2021  10:28 pm            10,286 cleo.log
+22/03/2021  06:50 pm    <DIR>          data
+16/03/2020  04:03 am           188,416 eax.dll
+14/04/2007  04:24 pm           103,552 gtaweap3.ttf
+15/08/2020  11:52 pm        14,383,616 gta_sa.exe
+22/03/2021  06:47 pm    <DIR>          icons
+16/03/2020  04:04 am            68,800 index.bin
+13/07/2011  02:04 am            97,792 LanguageLoader.asi
+22/03/2021  06:50 pm    <DIR>          models
+22/03/2021  06:59 pm    <DIR>          modloader
+06/06/2009  10:07 pm               784 mouse.png
+22/03/2021  06:48 pm    <DIR>          movies
+22/03/2021  06:47 pm    <DIR>          MP Installer
+16/03/2020  04:03 am           813,488 MTLX.dll
+16/03/2020  04:03 am            36,864 ogg.dll
+22/03/2021  06:47 pm    <DIR>          original
+16/06/2007  08:43 am            36,864 rcon.exe
+22/03/2021  06:50 pm    <DIR>          ReadMe
+22/03/2021  06:55 pm    <DIR>          SAMP
+28/08/2011  11:25 am             3,950 samp-license.txt
+21/11/2019  10:38 am         1,204,224 samp.dll
+14/11/2019  03:05 pm           412,672 samp.exe
+16/04/2015  06:45 pm         2,689,408 samp.saa
+15/02/2012  10:57 am            11,544 sampaux3.ttf
+13/06/2009  12:59 am            14,091 sampgui.png
+22/03/2021  06:55 pm            57,679 SAMPUninstall.exe
+05/04/2006  08:55 pm           147,456 samp_debug.exe
+22/03/2021  06:52 pm    <DIR>          scripts
+04/08/2017  04:00 pm               212 stream.ini
+22/03/2021  06:48 pm    <DIR>          text
+01/04/2021  09:22 pm                 0 time_wg.txt
+01/04/2021  09:22 pm           129,495 tree_wg.txt
+07/07/2020  07:08 am           150,722 Unban_Helper.exe
+22/03/2021  06:50 pm    <DIR>          Uninstall
+16/03/2020  04:03 am                20 version.txt
+16/03/2020  04:03 am         1,060,864 vorbis.dll
+26/01/2014  06:10 pm            53,760 vorbisFile.dll
+16/11/2003  08:48 pm            65,536 vorbisHooked.dll
+23/09/2010  07:21 pm           356,864 wgCrypt.exe
+              29 File(s)     22,455,879 bytes
+              17 Dir(s)  411,095,105,536 bytes free
